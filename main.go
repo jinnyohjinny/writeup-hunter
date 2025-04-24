@@ -5,6 +5,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"io"
 	"log"
 	"math"
 	"net/http"
@@ -291,11 +292,91 @@ func updateLastCheckTime(filename string) error {
 
 func fetchArticles(feedURL string) ([]*gofeed.Item, error) {
 	fp := gofeed.NewParser()
+
+	// Check if it's our specific JSON feed
+	if strings.Contains(feedURL, "writeups.xyz/index.json") {
+		return parseWriteupsXYZFeed(feedURL)
+	}
+
+	// Handle regular RSS/Atom feeds
 	feed, err := fp.ParseURL(feedURL)
 	if err != nil {
-		return nil, err
+		return nil, fmt.Errorf("parsing feed URL: %w", err)
 	}
 	return feed.Items, nil
+}
+
+func parseWriteupsXYZFeed(feedURL string) ([]*gofeed.Item, error) {
+	resp, err := http.Get(feedURL)
+	if err != nil {
+		return nil, fmt.Errorf("fetching JSON feed: %w", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return nil, fmt.Errorf("unexpected status code: %d", resp.StatusCode)
+	}
+
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return nil, fmt.Errorf("reading response body: %w", err)
+	}
+
+	// Define a struct that matches the JSON structure
+	type jsonItem struct {
+		Title         string `json:"title"`
+		Description   string `json:"description"`
+		Link          string `json:"link"`
+		PublishedDate string `json:"published"`
+		Authors       []struct {
+			Name string `json:"name"`
+		} `json:"authors"`
+		Vulnerabilities []struct {
+			Title string `json:"title"`
+		} `json:"vulnerabilities"`
+	}
+
+	var items []jsonItem
+	if err := json.Unmarshal(body, &items); err != nil {
+		return nil, fmt.Errorf("unmarshaling JSON: %w", err)
+	}
+
+	// Convert to gofeed.Items
+	var feedItems []*gofeed.Item
+	for _, item := range items {
+		// Format authors
+		var authors []string
+		for _, author := range item.Authors {
+			authors = append(authors, author.Name)
+		}
+
+		// Format vulnerabilities/tags
+		var tags []string
+		for _, vuln := range item.Vulnerabilities {
+			tags = append(tags, vuln.Title)
+		}
+
+		feedItem := &gofeed.Item{
+			Title:       item.Title,
+			Description: item.Description,
+			Link:        item.Link,
+			Published:   item.PublishedDate,
+			// Custom fields can be added to the Extensions map if needed
+		}
+
+		// // If you need to preserve the authors and tags, you could add them to a custom field
+		// if len(authors) > 0 {
+		// 	if feedItem.Extensions == nil {
+		// 		feedItem.Extensions = make(map[string]map[string][]gofeed.Extension)
+		// 	}
+		// 	feedItem.Extensions["custom"] = map[string][]gofeed.Extension{
+		// 		"authors": {gofeed.Extension{Value: strings.Join(authors, ", ")}},
+		// 	}
+
+		feedItems = append(feedItems, feedItem)
+		// }
+	}
+	return feedItems, nil
 }
 
 func fetchArticlesWithRetry(feedURL string, maxRetries int) ([]*gofeed.Item, error) {

@@ -204,3 +204,11 @@ https://www.youtube.com/watch?v=UH3vIqH8_BA
 https://www.youtube.com/watch?v=bcw6rLYhyzk
 https://www.youtube.com/watch?v=_vXx4WqaXwQ
 https://www.youtube.com/watch?v=yBSF5OUrLYs
+https://research.aurainfosec.io/disclosure/sagecrm2/
+https://www.netspi.com/blog/technical-blog/network-pentesting/hijacking-sql-server-credentials-with-agent-jobs-for-domain-privilege-escalation/
+https://edermi.github.io/post/2024/mfa_bypass_mtls/
+https://script.hashnode.dev/self-xss-to-ato-via-site-features
+https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741
+https://www.sonarsource.com/blog/basic-http-authentication-risk-uncovering-pyspider-vulnerabilities/
+https://infosecwriteups.com/a-story-about-how-i-found-xss-in-asus-cb233ce3bb9c
+https://sudhanshur705.medium.com/bypassing-csp-via-url-parser-confusions-xss-on-netlifys-image-cdn-755a27065fd9
