@@ -13,6 +13,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCNRM4GH-SD85WCSqeSb4xUA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCuJ-flNPT3udus0xiUtC8yg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9IAh1JN4lhSVz193GvZVZg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9bKs2A7JAnHGJrO7yDqbmw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZDyl7G-Lq-EMVO8PfDFp9g
 
 https://medium.com/feed/tag/bug-bounty-program
 https://medium.com/feed/tag/bug-bounty

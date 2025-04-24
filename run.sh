@@ -2,7 +2,7 @@
 
 # Configuration
 REPO_DIR="/app"
-BACKUP_INTERVAL=43200 # 12 hours in seconds
+BACKUP_INTERVAL=7200 # 2 hours in seconds
 GIT_REMOTE="origin"
 GIT_BRANCH="main"
 

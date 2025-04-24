@@ -4,13 +4,19 @@ import (
 	"bufio"
 	"bytes"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io"
 	"log"
 	"math"
+	"math/rand"
+	"net"
 	"net/http"
+	"net/url"
 	"os"
 	"strings"
+	"sync"
+	"syscall"
 	"time"
 
 	"github.com/fatih/color"
@@ -121,13 +127,42 @@ func init() {
 func main() {
 	printHeader("Starting Writeup Finder Script", color.FgGreen)
 
+	// Configuration
+	config := struct {
+		MaxRetries        int
+		BaseDelay         time.Duration
+		Jitter            time.Duration
+		MaxDelay          time.Duration
+		CheckWindowDays   int
+		DelayBetweenFeeds time.Duration
+	}{
+		MaxRetries:        3,
+		BaseDelay:         2 * time.Second,
+		Jitter:            1 * time.Second,
+		MaxDelay:          30 * time.Second,
+		CheckWindowDays:   -7, // Look back 7 days
+		DelayBetweenFeeds: 5 * time.Second,
+	}
+
+	// Validate environment variables
 	botToken := os.Getenv("TELEGRAM_BOT_TOKEN")
+	if botToken == "" {
+		log.Fatal("TELEGRAM_BOT_TOKEN environment variable not set")
+	}
 	channelID := os.Getenv("TELEGRAM_CHANNEL_ID")
+	if channelID == "" {
+		log.Fatal("TELEGRAM_CHANNEL_ID environment variable not set")
+	}
 
-	headermsg := fmt.Sprintf("Writeup Finder Started - %s", time.Now().Format("2006-01-02"))
-
+	// Initialize tracking
+	startTime := time.Now()
+	headermsg := fmt.Sprintf("Writeup Finder Started - %s", startTime.Format("2006-01-02 15:04:05"))
 	sendToTelegram(headermsg, botToken, channelID, keywords["general"])
 
+	// Domain-specific rate limiter
+	rateLimiter := NewRateLimiter(5*time.Second, 2*time.Second)
+
+	// Load URLs
 	urls, err := readURLs(urlsFileName)
 	if err != nil {
 		log.Fatalf("Error reading URLs: %v", err)
@@ -135,21 +170,32 @@ func main() {
 
 	foundUrls, err := readFoundURLs(foundUrlsFileName)
 	if err != nil {
-		log.Printf("Warning: %v", err)
+		log.Printf("Warning: reading found URLs: %v", err)
+		foundUrls = make(map[string]struct{})
 	}
 
-	cutoffTime := time.Now().AddDate(0, 0, checkWindowDays)
+	cutoffTime := time.Now().AddDate(0, 0, config.CheckWindowDays)
 	articlesFound := 0
+	failedFeeds := 0
 
+	// Process feeds
 	for i, url := range urls {
-		printStatus(fmt.Sprintf("Processing feed: %s", url), color.FgMagenta)
+		printStatus(fmt.Sprintf("Processing feed %d/%d: %s", i+1, len(urls), url), color.FgMagenta)
 
-		articles, err := fetchArticlesWithRetry(url, maxRetries)
+		// Respect domain rate limits
+		domain := getDomain(url)
+		rateLimiter.Wait(domain)
+
+		// Fetch with retry and backoff
+		articles, err := fetchArticlesWithRetry(url, config.MaxRetries, config.BaseDelay, config.Jitter, config.MaxDelay)
 		if err != nil {
 			printError(fmt.Sprintf("Error fetching feed from %s: %v", url, err))
+			failedFeeds++
 			continue
 		}
 
+		// Process articles
+		newArticles := 0
 		for _, item := range articles {
 			if _, exists := foundUrls[item.Link]; exists {
 				continue
@@ -161,34 +207,184 @@ func main() {
 			}
 
 			pubDate, err := parseDate(item.Published)
-			if err != nil || pubDate.Before(cutoffTime) {
-				if err := saveURL(item.Link, foundUrlsFileName); err != nil {
-					printError(fmt.Sprintf("Error saving URL: %v", err))
-					continue
-				}
-
-				for _, keyword := range article.Keywords {
-					message := formatTelegramMessage(article, keyword)
-					sendToTelegram(message, botToken, channelID, keywords[keyword])
-					printSuccess(message)
-					articlesFound++
-				}
+			if err != nil {
+				printError(fmt.Sprintf("Error parsing date for %s: %v", item.Link, err))
+				continue
 			}
+
+			if pubDate.Before(cutoffTime) {
+				continue
+			}
+
+			// Send notifications for each keyword
+			for _, keyword := range article.Keywords {
+				message := formatTelegramMessage(article, keyword)
+				sendToTelegram(message, botToken, channelID, keywords[keyword])
+				printSuccess(message)
+				articlesFound++
+				newArticles++
+			}
+
+			// Mark as processed
+			if err := saveURL(item.Link, foundUrlsFileName); err != nil {
+				printError(fmt.Sprintf("Error saving URL: %v", err))
+				continue
+			}
+			foundUrls[item.Link] = struct{}{}
 		}
 
+		printStatus(fmt.Sprintf("Found %d new articles in this feed", newArticles), color.FgYellow)
+
+		// Delay between feeds, but not after the last one
 		if i < len(urls)-1 {
-			time.Sleep(delayBetweenFeeds)
+			time.Sleep(config.DelayBetweenFeeds + time.Duration(rand.Int63n(int64(config.Jitter))))
 		}
 	}
 
-	finisedMsg := fmt.Sprintf("Total new articles found: %d", articlesFound)
-	printStatus(finisedMsg, color.FgCyan)
+	// Final report
+	duration := time.Since(startTime).Round(time.Second)
+	finishedMsg := fmt.Sprintf("Completed in %s. Total new articles found: %d. Failed feeds: %d/%d",
+		duration, articlesFound, failedFeeds, len(urls))
+
+	printStatus(finishedMsg, color.FgCyan)
 	printHeader("Writeup Hunter Script Completed", color.FgGreen)
-	sendToTelegram(finisedMsg, botToken, channelID, keywords["general"])
+	sendToTelegram(finishedMsg, botToken, channelID, keywords["general"])
 
 	if err := updateLastCheckTime(lastCheckFileName); err != nil {
 		printError(fmt.Sprintf("Error updating last check time: %v", err))
 	}
+}
+
+// NewRateLimiter creates a domain-based rate limiter
+type RateLimiter struct {
+	mu       sync.Mutex
+	lastReq  map[string]time.Time
+	minDelay time.Duration
+	jitter   time.Duration
+}
+
+func NewRateLimiter(minDelay, jitter time.Duration) *RateLimiter {
+	return &RateLimiter{
+		lastReq:  make(map[string]time.Time),
+		minDelay: minDelay,
+		jitter:   jitter,
+	}
+}
+
+func (r *RateLimiter) Wait(domain string) {
+	r.mu.Lock()
+	defer r.mu.Unlock()
+
+	if last, exists := r.lastReq[domain]; exists {
+		elapsed := time.Since(last)
+		if elapsed < r.minDelay {
+			waitTime := r.minDelay - elapsed + time.Duration(rand.Int63n(int64(r.jitter)))
+			time.Sleep(waitTime)
+		}
+	}
+	r.lastReq[domain] = time.Now()
+}
+
+// fetchArticlesWithRetry implements exponential backoff
+func fetchArticlesWithRetry(url string, maxRetries int, baseDelay, jitter, maxDelay time.Duration) (articles []*gofeed.Item, err error) {
+	for attempt := 0; attempt <= maxRetries; attempt++ {
+		articles, err = fetchArticles(url)
+		if err == nil {
+			return articles, nil
+		}
+
+		if shouldRetry(err) {
+			delay := getBackoffDelay(attempt, baseDelay, jitter, maxDelay)
+			time.Sleep(delay)
+			continue
+		}
+		break
+	}
+	return nil, fmt.Errorf("after %d attempts: %w", maxRetries, err)
+}
+
+func shouldRetry(err error) bool {
+	if err == nil {
+		return false
+	}
+
+	// Handle HTTP errors
+	var httpErr *HTTPError
+	if errors.As(err, &httpErr) {
+		// Retry on 5xx server errors and 429 (Too Many Requests)
+		if httpErr.StatusCode >= 500 || httpErr.StatusCode == http.StatusTooManyRequests {
+			return true
+		}
+		// Don't retry on client errors (4xx) except 429
+		if httpErr.StatusCode >= 400 && httpErr.StatusCode < 500 {
+			return false
+		}
+	}
+
+	// Handle network errors (timeouts, connection resets, etc.)
+	var netErr net.Error
+	if errors.As(err, &netErr) {
+		if netErr.Timeout() || netErr.Temporary() {
+			return true
+		}
+	}
+
+	// Handle DNS errors
+	var dnsErr *net.DNSError
+	if errors.As(err, &dnsErr) {
+		return !dnsErr.IsNotFound
+	}
+
+	// Handle URL errors (malformed URLs, etc.)
+	var urlErr *url.Error
+	if errors.As(err, &urlErr) {
+		// Only retry if it's a timeout or temporary error
+		if urlErr.Timeout() || urlErr.Temporary() {
+			return true
+		}
+	}
+
+	// Handle specific error cases
+	switch {
+	case errors.Is(err, io.EOF):
+		return true // Server closed connection
+	case errors.Is(err, syscall.ECONNREFUSED):
+		return true // Connection refused
+	case errors.Is(err, syscall.ECONNRESET):
+		return true // Connection reset by peer
+	case strings.Contains(err.Error(), "TLS handshake timeout"):
+		return true
+	}
+
+	// Default case - don't retry on unknown errors
+	return false
+}
+
+type HTTPError struct {
+	StatusCode int
+	Body       []byte
+}
+
+func (e *HTTPError) Error() string {
+	return fmt.Sprintf("HTTP error %d: %s", e.StatusCode, string(e.Body))
+}
+
+func getBackoffDelay(attempt int, baseDelay, jitter, maxDelay time.Duration) time.Duration {
+	delay := baseDelay * time.Duration(math.Pow(2, float64(attempt)))
+	delay += time.Duration(rand.Int63n(int64(jitter)))
+
+	if delay > maxDelay {
+		return maxDelay
+	}
+	return delay
+}
+
+func getDomain(urlStr string) string {
+	u, err := url.Parse(urlStr)
+	if err != nil {
+		return "default"
+	}
+	return u.Hostname()
 }
 
 // Helper functions
@@ -379,41 +575,47 @@ func parseWriteupsXYZFeed(feedURL string) ([]*gofeed.Item, error) {
 	return feedItems, nil
 }
 
-func fetchArticlesWithRetry(feedURL string, maxRetries int) ([]*gofeed.Item, error) {
-	var lastErr error
+// func fetchArticlesWithRetry(feedURL string, maxRetries int) ([]*gofeed.Item, error) {
+// 	var lastErr error
 
-	for i := 0; i < maxRetries; i++ {
-		articles, err := fetchArticles(feedURL)
-		if err == nil {
-			return articles, nil
-		}
+// 	for i := range maxRetries {
+// 		articles, err := fetchArticles(feedURL)
+// 		if err == nil {
+// 			return articles, nil
+// 		}
 
-		if strings.Contains(err.Error(), "429") {
-			waitTime := time.Duration(math.Pow(2, float64(i))) * retryBaseDelay
-			time.Sleep(waitTime)
-			lastErr = err
-			continue
-		}
+// 		if strings.Contains(err.Error(), "429") {
+// 			waitTime := time.Duration(math.Pow(2, float64(i))) * retryBaseDelay
+// 			time.Sleep(waitTime)
+// 			lastErr = err
+// 			continue
+// 		}
 
-		return nil, fmt.Errorf("fetching articles: %w", err)
+// 		return nil, fmt.Errorf("fetching articles: %w", err)
+// 	}
+
+// 	return nil, fmt.Errorf("after %d retries: %w", maxRetries, lastErr)
+// }
+
+func parseDate(dateStr string) (time.Time, error) {
+	// Try multiple common date formats
+	formats := []string{
+		time.RFC1123,  // "Mon, 02 Jan 2006 15:04:05 MST"
+		time.RFC1123Z, // "Mon, 02 Jan 2006 15:04:05 -0700"
+		time.RFC3339,  // "2006-01-02T15:04:05Z07:00"
+		"2006-01-02 15:04:05 -0700",
+		"2006-01-02 15:04:05",
+		"02 Jan 2006 15:04:05 MST",
 	}
 
-	return nil, fmt.Errorf("after %d retries: %w", maxRetries, lastErr)
-}
-
-func parseDate(dateString string) (time.Time, error) {
-	formats := []string{time.RFC1123Z, time.RFC1123}
-	var lastErr error
-
 	for _, format := range formats {
-		t, err := time.Parse(format, dateString)
+		t, err := time.Parse(format, dateStr)
 		if err == nil {
 			return t, nil
 		}
-		lastErr = err
 	}
 
-	return time.Time{}, fmt.Errorf("parsing date: %w", lastErr)
+	return time.Time{}, fmt.Errorf("unable to parse date: %s", dateStr)
 }
 
 func processArticle(item *gofeed.Item) *Article {
