@@ -2742,3 +2742,6 @@ https://medium.com/@Sina-Riyahi/20-api-security-tips-96a123fe7130?source=rss----
 https://medium.com/@MrPlufy/broken-access-control-unauthorized-users-able-to-add-customer-fd8176343650?source=rss------broken_access_control-5
 https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------xss_vulnerability-5
 https://medium.com/@m.meto1578/sql-injection-tehditler-%C3%B6rnekler-ve-korunma-y%C3%B6ntemleri-7ae84a92ea57?source=rss------sql_injection-5
+https://akashxak.medium.com/insecure-direct-object-reference-idor-in-a-government-portal-973758a23473?source=rss------bug_bounty-5
+https://medium.com/@joetheosintguy/arcx-threat-intelligence-101-dacf70052549?source=rss------osint-5
+https://medium.com/@joetheosintguy/arcx-threat-intelligence-101-dacf70052549?source=rss------intelligence-5
