@@ -2745,3 +2745,9 @@ https://medium.com/@m.meto1578/sql-injection-tehditler-%C3%B6rnekler-ve-korunma-
 https://akashxak.medium.com/insecure-direct-object-reference-idor-in-a-government-portal-973758a23473?source=rss------bug_bounty-5
 https://medium.com/@joetheosintguy/arcx-threat-intelligence-101-dacf70052549?source=rss------osint-5
 https://medium.com/@joetheosintguy/arcx-threat-intelligence-101-dacf70052549?source=rss------intelligence-5
+https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty-5
+https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_writeup-5
+https://medium.com/@dam_coffee/gralhix-exercise-009-fa4f91036dca?source=rss------osint-5
+https://medium.com/polvo-correio/jornalismo-de-investiga%C3%A7%C3%A3o-na-era-osint-a3fd3c5a806a?source=rss------open_source_intelligence-5
+https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_tips-5
+https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------cybersecurity-5
