@@ -2732,3 +2732,13 @@ https://medium.com/@albertoc_91016/prototype-pollution-in-open-source-libraries-
 https://medium.com/@aadi01/dc-1-vulnhub-walkthrough-99e1a6c422fe?source=rss------penetration_testing-5
 https://medium.com/@yassentaalab51/bypassed-the-invite-flow-gained-admin-access-d37347d57468?source=rss------broken_access_control-5
 https://medium.com/@yassentaalab51/bypassed-the-invite-flow-gained-admin-access-d37347d57468?source=rss------bug_bounty_tips-5
+https://medium.com/@MrPlufy/broken-access-control-unauthorized-users-able-to-add-customer-fd8176343650?source=rss------bug_bounty-5
+https://medium.com/@21bec131/from-theory-to-practice-real-world-http-request-smuggling-attack-scenarios-823bdf5f928d?source=rss------bug_bounty_writeup-5
+https://medium.com/@MrPlufy/broken-access-control-unauthorized-users-able-to-add-customer-fd8176343650?source=rss------bug_hunting-5
+https://medium.com/@MrPlufy/broken-access-control-unauthorized-users-able-to-add-customer-fd8176343650?source=rss------penetration_testing-5
+https://medium.com/@aidan.nelson_80779/gralhix-osint-challenge-1-2d12f9c3ee8a?source=rss------osint-5
+https://medium.com/@aidan.nelson_80779/gralhix-osint-challenge-1-2d12f9c3ee8a?source=rss------osint_tools-5
+https://medium.com/@Sina-Riyahi/20-api-security-tips-96a123fe7130?source=rss------encryption-5
+https://medium.com/@MrPlufy/broken-access-control-unauthorized-users-able-to-add-customer-fd8176343650?source=rss------broken_access_control-5
+https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------xss_vulnerability-5
+https://medium.com/@m.meto1578/sql-injection-tehditler-%C3%B6rnekler-ve-korunma-y%C3%B6ntemleri-7ae84a92ea57?source=rss------sql_injection-5
