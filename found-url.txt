@@ -2751,3 +2751,5 @@ https://medium.com/@dam_coffee/gralhix-exercise-009-fa4f91036dca?source=rss-----
 https://medium.com/polvo-correio/jornalismo-de-investiga%C3%A7%C3%A3o-na-era-osint-a3fd3c5a806a?source=rss------open_source_intelligence-5
 https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_tips-5
 https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------cybersecurity-5
+https://osintteam.blog/explode-vulnerabilities-protect-your-system-c0ea7ab47344?source=rss------penetration_testing-5
+https://medium.com/@wundergraph/from-rate-limiting-to-harm-limiting-rethinking-api-safety-b882f35dfd07?source=rss------api_security-5
