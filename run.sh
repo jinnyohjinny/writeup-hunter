@@ -6,15 +6,24 @@ BACKUP_INTERVAL=43200 # 12 hours in seconds
 GIT_REMOTE="origin"
 GIT_BRANCH="main"
 
-# Initialize git config (run once)
-if [ ! -f /root/.gitconfig ]; then
-    git config --global user.email "writeup-hunter@docker"
-    git config --global user.name "Writeup Hunter"
-fi
-
+configure_git() {
+    # Only configure if variables exist
+    if [[ -n "$GITHUB_USERNAME" && -n "$GITHUB_PAT" ]]; then
+        git config --global url."https://${GITHUB_USERNAME}:${GITHUB_PAT}@github.com".insteadOf "https://github.com"
+        git config --global user.email "writeup-hunter@docker"
+        git config --global user.name "Writeup Hunter"
+        echo "$(date) - Git configured with PAT authentication"
+    else
+        echo "$(date) - WARNING: GitHub credentials not set, Git operations may fail"
+    fi
+}
 # Function to perform git backup
 git_backup() {
     cd "$REPO_DIR" || exit 1
+
+    if [ ! -f /root/.gitconfig ]; then
+        configure_git
+    fi
     
     # Check if there are changes to commit
     if [[ -n $(git status -s) ]]; then

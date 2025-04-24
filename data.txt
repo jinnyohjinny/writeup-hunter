@@ -123,3 +123,5 @@ https://surya-dev.medium.com/feed
 
 https://osintteam.blog/feed
 https://infosecwriteups.com/feed
+
+https://writeups.xyz/index.json
