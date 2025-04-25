@@ -134,3 +134,7 @@ https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?sou
 https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?source=rss------bug_bounty_tips-5
 https://medium.com/@bishal_cpgn/privilege-escalation-using-docker-container-e9110713936b?source=rss------cybersecurity-5
 https://osintteam.blog/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss----2983bc435765---4
+https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------osint-5
+https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------open_source_intelligence-5
+https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------intelligence-5
+https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------cybersecurity-5
