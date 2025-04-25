@@ -2755,3 +2755,11 @@ https://osintteam.blog/explode-vulnerabilities-protect-your-system-c0ea7ab47344?
 https://medium.com/@wundergraph/from-rate-limiting-to-harm-limiting-rethinking-api-safety-b882f35dfd07?source=rss------api_security-5
 https://onurcangencbilkent.medium.com/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss------penetration_testing-5
 https://onurcangencbilkent.medium.com/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss------cybersecurity-5
+https://medium.com/@loyalonlytoday/reddit-analysis-tools-for-osint-investigators-55ef6b48ca53?source=rss------osint-5
+https://medium.com/@ibtissamhammadi/how-to-find-hidden-hackerone-bugcrowd-programs-0149457cf048?source=rss------osint-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-1-a9fd6859c7ae?source=rss------portswigger-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-1-a9fd6859c7ae?source=rss------burp_suite-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-1-a9fd6859c7ae?source=rss------sql_injection-5
+https://osintteam.blog/top-10-red-team-tactics-every-cybersecurity-enthusiast-should-know-ccc293936d51?source=rss------cybersecurity-5
+https://medium.com/@loyalonlytoday/reddit-analysis-tools-for-osint-investigators-55ef6b48ca53?source=rss------cybersecurity-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-1-a9fd6859c7ae?source=rss------cybersecurity-5
