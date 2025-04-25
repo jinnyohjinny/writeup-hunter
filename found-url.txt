@@ -2765,3 +2765,12 @@ https://medium.com/@loyalonlytoday/reddit-analysis-tools-for-osint-investigators
 https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-1-a9fd6859c7ae?source=rss------cybersecurity-5
 https://medium.com/@yubanbanz/how-i-found-a-rxss-by-webpack-7e2217a3976d?source=rss------bug_bounty-5
 https://sagarag.medium.com/mtls-and-oauth2-client-authentication-5958f6f9b098?source=rss------application_security-5
+https://medium.com/@benjaminmillerdev/social-media-osint-revealed-for-law-enforcement-author-benjamin-miller-7729cabb2fb3?source=rss------osint-5
+https://systemweakness.com/bypassing-csrf-defenses-using-xss-and-more-portswigger-xss-practitioner-part-2-b08965e0c039?source=rss------cross_site_scripting-5
+https://medium.com/nextgen-dev-labs/slow-down-there-hacker-redis-powered-rate-limiting-caching-abuse-prevention-in-node-js-d8b6ddb435e0?source=rss------api_security-5
+https://systemweakness.com/bypassing-csrf-defenses-using-xss-and-more-portswigger-xss-practitioner-part-2-b08965e0c039?source=rss------writeup-5
+https://medium.com/@dant3xhunt3r/zabbix-server-installer-3de017d1b76f?source=rss------cybersecurity-5
+https://osintteam.blog/reverse-engineering-malware-cracking-the-code-of-digital-predators-47c7440c6559?source=rss----2983bc435765---4
+https://osintteam.blog/hack-misconfigured-endpoints-easily-part-4-f8deca83c9dc?source=rss----2983bc435765---4
+https://osintteam.blog/chinese-state-sponsored-unc5174-uses-open-source-tool-in-new-campaign-924b9e0fd53e?source=rss----2983bc435765---4
+https://osintteam.blog/the-malware-that-outsmarted-antivirus-firewalls-and-humans-meet-chimera-7e7a4bba90fc?source=rss----2983bc435765---4
