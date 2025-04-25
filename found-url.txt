@@ -138,3 +138,5 @@ https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-buil
 https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------open_source_intelligence-5
 https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------intelligence-5
 https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------cybersecurity-5
+https://medium.com/@ArtsSEC/burp-suite-creaci%C3%B3n-de-reportes-mediante-ai-f5ad88f5de1f?source=rss------burp_suite-5
+https://medium.com/@Am_Issath/rate-limiting-in-django-the-2025-way-how-to-protect-your-api-without-breaking-ux-9ff08677fb0f?source=rss------api_security-5
