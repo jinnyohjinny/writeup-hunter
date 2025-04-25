@@ -2774,3 +2774,5 @@ https://osintteam.blog/reverse-engineering-malware-cracking-the-code-of-digital-
 https://osintteam.blog/hack-misconfigured-endpoints-easily-part-4-f8deca83c9dc?source=rss----2983bc435765---4
 https://osintteam.blog/chinese-state-sponsored-unc5174-uses-open-source-tool-in-new-campaign-924b9e0fd53e?source=rss----2983bc435765---4
 https://osintteam.blog/the-malware-that-outsmarted-antivirus-firewalls-and-humans-meet-chimera-7e7a4bba90fc?source=rss----2983bc435765---4
+https://osintteam.blog/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss------penetration_testing-5
+https://systemweakness.com/bypassing-csrf-defenses-using-xss-and-more-portswigger-xss-practitioner-part-2-b08965e0c039?source=rss------portswigger-5
