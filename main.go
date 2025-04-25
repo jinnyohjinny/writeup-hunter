@@ -642,11 +642,33 @@ func processArticle(item *gofeed.Item) *Article {
 }
 
 func formatTelegramMessage(article *Article, keyword string) string {
-	if strings.Contains(article.Link, "medium.com") {
-		article.Link = fmt.Sprintf("https://freedium.cfd/%s", article.Link)
+	cleanedLink := cleanURL(article.Link)
+
+	if strings.Contains(cleanedLink, "medium.com") {
+		cleanedLink = fmt.Sprintf("https://freedium.cfd/%s", cleanedLink)
 	}
+
 	return fmt.Sprintf("▶ %s\nPublished: %s\nLink: %s\nTags: %s",
-		article.Title, article.Published, article.Link, keyword)
+		article.Title, article.Published, cleanedLink, keyword)
+}
+
+// cleanURL removes tracking parameters (e.g., ?source=...) from URLs
+func cleanURL(rawURL string) string {
+	parsed, err := url.Parse(rawURL)
+	if err != nil {
+		return rawURL // Return original if parsing fails
+	}
+
+	// Remove unwanted query parameters (e.g., "source", "utm_*")
+	query := parsed.Query()
+	for param := range query {
+		if param == "source" || strings.HasPrefix(param, "utm_") {
+			query.Del(param)
+		}
+	}
+	parsed.RawQuery = query.Encode()
+
+	return parsed.String()
 }
 
 func sendToTelegram(message, botToken, channelID, messageThreadID string) {
