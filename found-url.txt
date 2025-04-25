@@ -2753,3 +2753,5 @@ https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss
 https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------cybersecurity-5
 https://osintteam.blog/explode-vulnerabilities-protect-your-system-c0ea7ab47344?source=rss------penetration_testing-5
 https://medium.com/@wundergraph/from-rate-limiting-to-harm-limiting-rethinking-api-safety-b882f35dfd07?source=rss------api_security-5
+https://onurcangencbilkent.medium.com/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss------penetration_testing-5
+https://onurcangencbilkent.medium.com/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss------cybersecurity-5
