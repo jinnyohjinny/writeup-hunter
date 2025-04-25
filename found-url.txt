@@ -126,3 +126,6 @@ https://osintteam.blog/hack-misconfigured-endpoints-easily-part-4-f8deca83c9dc?s
 https://osintteam.blog/chinese-state-sponsored-unc5174-uses-open-source-tool-in-new-campaign-924b9e0fd53e?source=rss----2983bc435765---4
 https://osintteam.blog/the-malware-that-outsmarted-antivirus-firewalls-and-humans-meet-chimera-7e7a4bba90fc?source=rss----2983bc435765---4
 https://osintteam.blog/the-ghost-in-the-machine-how-x-business-fell-victim-to-a-bizarre-invisible-cyber-attack-455a462ca23f?source=rss----2983bc435765---4
+https://medium.com/@mylescorey87/osint-and-google-dorking-ba3b5ce469d4?source=rss------osint-5
+https://medium.com/@yadneshx17/unlocking-hidden-info-with-google-dorks-a-beginners-guide-436dec8dcbde?source=rss------osint-5
+https://medium.com/@andreabocchetti88/ghosting-amsi-cutting-rpc-to-disarm-av-04c26d67bb80?source=rss------cybersecurity-5
