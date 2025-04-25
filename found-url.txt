@@ -2763,3 +2763,5 @@ https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilit
 https://osintteam.blog/top-10-red-team-tactics-every-cybersecurity-enthusiast-should-know-ccc293936d51?source=rss------cybersecurity-5
 https://medium.com/@loyalonlytoday/reddit-analysis-tools-for-osint-investigators-55ef6b48ca53?source=rss------cybersecurity-5
 https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-1-a9fd6859c7ae?source=rss------cybersecurity-5
+https://medium.com/@yubanbanz/how-i-found-a-rxss-by-webpack-7e2217a3976d?source=rss------bug_bounty-5
+https://sagarag.medium.com/mtls-and-oauth2-client-authentication-5958f6f9b098?source=rss------application_security-5
