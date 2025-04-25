@@ -2776,3 +2776,11 @@ https://osintteam.blog/chinese-state-sponsored-unc5174-uses-open-source-tool-in-
 https://osintteam.blog/the-malware-that-outsmarted-antivirus-firewalls-and-humans-meet-chimera-7e7a4bba90fc?source=rss----2983bc435765---4
 https://osintteam.blog/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss------penetration_testing-5
 https://systemweakness.com/bypassing-csrf-defenses-using-xss-and-more-portswigger-xss-practitioner-part-2-b08965e0c039?source=rss------portswigger-5
+https://medium.com/@verylazytech/mastering-linux-privilege-escalation-part-3-advanced-exploits-nfs-and-real-world-strategy-0ba8198f03dc?source=rss------bug_bounty-5
+https://medium.com/@AhmadSopyan/sql-injection-part-16-basic-blind-sqli-time-delays-and-information-retrieval-daabed19b67d?source=rss------penetration_testing-5
+https://medium.com/@antipovzzzzz/uncovering-hidden-data-in-australia-how-osint-is-reshaping-information-search-666aac24247d?source=rss------osint-5
+https://medium.com/@antipovzzzzz/the-best-telegram-bot-for-osint-and-information-gathering-01c59a0f82bb?source=rss------osint-5
+https://medium.com/@AhmadSopyan/sql-injection-part-16-basic-blind-sqli-time-delays-and-information-retrieval-daabed19b67d?source=rss------portswigger-5
+https://medium.com/@AhmadSopyan/sql-injection-part-16-basic-blind-sqli-time-delays-and-information-retrieval-daabed19b67d?source=rss------sql_injection-5
+https://medium.com/@MuhmmadAhmad1/cissp-exam-in-2025-7-smart-cybersecurity-hacks-you-need-to-know-a5c469d91423?source=rss------cybersecurity-5
+https://medium.com/@AhmadSopyan/sql-injection-part-16-basic-blind-sqli-time-delays-and-information-retrieval-daabed19b67d?source=rss------cybersecurity-5
