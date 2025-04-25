@@ -129,3 +129,8 @@ https://osintteam.blog/the-ghost-in-the-machine-how-x-business-fell-victim-to-a-
 https://medium.com/@mylescorey87/osint-and-google-dorking-ba3b5ce469d4?source=rss------osint-5
 https://medium.com/@yadneshx17/unlocking-hidden-info-with-google-dorks-a-beginners-guide-436dec8dcbde?source=rss------osint-5
 https://medium.com/@andreabocchetti88/ghosting-amsi-cutting-rpc-to-disarm-av-04c26d67bb80?source=rss------cybersecurity-5
+https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?source=rss------bug_bounty_writeup-5
+https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?source=rss------xss_vulnerability-5
+https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?source=rss------bug_bounty_tips-5
+https://medium.com/@bishal_cpgn/privilege-escalation-using-docker-container-e9110713936b?source=rss------cybersecurity-5
+https://osintteam.blog/ci-cd-driven-passive-reconnaissance-a-devsecops-approach-to-external-attack-surface-enumeration-22d4fa3417d7?source=rss----2983bc435765---4
