@@ -141,3 +141,13 @@ https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-buil
 https://medium.com/@ArtsSEC/burp-suite-creaci%C3%B3n-de-reportes-mediante-ai-f5ad88f5de1f?source=rss------burp_suite-5
 https://medium.com/@Am_Issath/rate-limiting-in-django-the-2025-way-how-to-protect-your-api-without-breaking-ux-9ff08677fb0f?source=rss------api_security-5
 https://medium.com/@nitinsgavane/next-js-middleware-vulnerability-how-cve-2025-29927-enables-authorization-bypass-1e0293d10e24?source=rss------bug_bounty-5
+https://medium.com/@benjaminmillerdev/mastering-phone-osint-top-20-tools-with-real-world-applications-4a76d2920f53?source=rss------osint-5
+https://medium.com/@ekoms1/phish-hunter-pro-b3cc30041f91?source=rss------osint-5
+https://medium.com/@loyalonlytoday/automated-tool-for-osint-investigators-4a13ed9f2971?source=rss------osint-5
+https://medium.com/@souf6x/launching-my-country-by-country-osint-series-1a1e9debc7b8?source=rss------osint-5
+https://medium.com/@benjaminmillerdev/mastering-phone-osint-top-20-tools-with-real-world-applications-4a76d2920f53?source=rss------osint_tools-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-2-775614bd6388?source=rss------portswigger-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-2-775614bd6388?source=rss------burp_suite-5
+https://sagarag.medium.com/mtls-and-oauth2-certificate-bound-tokens-8204b7bc5833?source=rss------api_security-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-2-775614bd6388?source=rss------appsec-5
+https://medium.com/@loyalonlytoday/automated-tool-for-osint-investigators-4a13ed9f2971?source=rss------cybersecurity-5
