@@ -207,3 +207,9 @@ https://medium.com/@zoningxtr/how-i-chained-template-injections-across-pages-to-
 https://medium.com/@shefayerahmed/access-control-models-an-overview-based-on-security-levels-2c09dae99bf7?source=rss------cybersecurity-5
 https://callgh0st.medium.com/my-first-p1-ae9d09c02927?source=rss------recon-5
 https://medium.com/@jockky.dev/osint-%E0%BB%81%E0%BA%A1%E0%BB%88%E0%BA%99%E0%BA%AB%E0%BA%8D%E0%BA%B1%E0%BA%87-%E0%BA%8D%E0%BB%89%E0%BA%AD%E0%BA%99%E0%BA%AB%E0%BA%8D%E0%BA%B1%E0%BA%87%E0%BA%82%E0%BB%8D%E0%BB%89%E0%BA%A1%E0%BA%B9%E0%BA%99%E0%BA%AA%E0%BB%88%E0%BA%A7%E0%BA%99%E0%BB%82%E0%BA%95%E0%BB%80%E0%BA%AE%E0%BA%BB%E0%BA%B2%E0%BB%83%E0%BA%99%E0%BB%82%E0%BA%A5%E0%BA%81%E0%BA%AD%E0%BA%AD%E0%BA%99%E0%BA%A5%E0%BA%B2%E0%BA%8D%E0%BA%88%E0%BA%B6%E0%BB%88%E0%BA%87%E0%BA%AA%E0%BA%B3%E0%BA%84%E0%BA%B1%E0%BA%99-4d1af527693a?source=rss------osint-5
+https://medium.com/@haitam.lazaar/tryhackme-hacker-vs-hacker-walkthrough-web-shell-exploitation-privilege-escalation-9390dd0f14a0?source=rss------tryhackme-5
+https://medium.com/@gozde_t/letsdefend-soc-write-up-possible-sql-injection-payload-detected-4a14bc570ba1?source=rss------writeup-5
+https://medium.com/@gozde_t/letsdefend-soc-write-up-possible-sql-injection-payload-detected-4a14bc570ba1?source=rss------sql_injection-5
+https://medium.com/@haitam.lazaar/tryhackme-hacker-vs-hacker-walkthrough-web-shell-exploitation-privilege-escalation-9390dd0f14a0?source=rss------cybersecurity-5
+https://medium.com/@gozde_t/letsdefend-soc-write-up-possible-sql-injection-payload-detected-4a14bc570ba1?source=rss------cybersecurity-5
+https://medium.com/@andi.dev/difference-between-authorization-and-authentication-e535563344e5?source=rss------cybersecurity-5
