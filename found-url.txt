@@ -178,3 +178,9 @@ https://osintph.medium.com/session-private-messenger-a-look-at-features-privacy-
 https://infosecwriteups.com/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031?source=rss------cybersecurity-5
 https://infosecwriteups.com/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d---4
+https://www.youtube.com/watch?v=z-y1fZTl8ug
+https://medium.com/meetcyber/breaking-the-hierarchy-how-i-bypassed-role-restrictions-to-become-owner-2635e1e33d85?source=rss------bug_bounty-5
+https://medium.com/@rolextital/how-i-bypassed-authentication-on-a-funded-fashion-site-and-took-over-an-account-8b8a9189fb4a?source=rss------bug_bounty-5
+https://medium.com/@mohamadshahkhajeh/why-you-should-embrace-laravel-jetstream-for-modern-authentication-ab643e8f9194?source=rss------web_security-5
+https://medium.com/meetcyber/breaking-the-hierarchy-how-i-bypassed-role-restrictions-to-become-owner-2635e1e33d85?source=rss------web_application_security-5
+https://medium.com/@rolextital/how-i-bypassed-authentication-on-a-funded-fashion-site-and-took-over-an-account-8b8a9189fb4a?source=rss------web_application_security-5
