@@ -151,3 +151,8 @@ https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilit
 https://sagarag.medium.com/mtls-and-oauth2-certificate-bound-tokens-8204b7bc5833?source=rss------api_security-5
 https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-2-775614bd6388?source=rss------appsec-5
 https://medium.com/@loyalonlytoday/automated-tool-for-osint-investigators-4a13ed9f2971?source=rss------cybersecurity-5
+https://sagarag.medium.com/mtls-and-oauth2-certificate-bound-tokens-8204b7bc5833?source=rss------application_security-5
+https://medium.com/@Cwrw/osint-safely-calculating-the-jarm-of-c2-without-interacting-with-potentially-bad-infrastructure-ad5176f182d0?source=rss------osint-5
+https://medium.com/@codewithyuvi/building-my-own-cybersecurity-labs-a-hands-on-reflected-xss-lab-for-learners-by-researcher-yuvi-4a0eac9fe06d?source=rss------xss_vulnerability-5
+https://medium.com/@Cwrw/osint-safely-calculating-the-jarm-of-c2-without-interacting-with-potentially-bad-infrastructure-ad5176f182d0?source=rss------cybersecurity-5
+https://medium.com/@codewithyuvi/building-my-own-cybersecurity-labs-a-hands-on-reflected-xss-lab-for-learners-by-researcher-yuvi-4a0eac9fe06d?source=rss------cybersecurity-5
