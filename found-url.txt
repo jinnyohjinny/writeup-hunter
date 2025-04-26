@@ -156,3 +156,6 @@ https://medium.com/@Cwrw/osint-safely-calculating-the-jarm-of-c2-without-interac
 https://medium.com/@codewithyuvi/building-my-own-cybersecurity-labs-a-hands-on-reflected-xss-lab-for-learners-by-researcher-yuvi-4a0eac9fe06d?source=rss------xss_vulnerability-5
 https://medium.com/@Cwrw/osint-safely-calculating-the-jarm-of-c2-without-interacting-with-potentially-bad-infrastructure-ad5176f182d0?source=rss------cybersecurity-5
 https://medium.com/@codewithyuvi/building-my-own-cybersecurity-labs-a-hands-on-reflected-xss-lab-for-learners-by-researcher-yuvi-4a0eac9fe06d?source=rss------cybersecurity-5
+https://medium.com/@dharineeshj2/millions-of-records-exposed-via-sql-injection-in-a-tamil-nadu-government-portal-0981d3827ed2?source=rss------bug_bounty-5
+https://medium.com/@Sky_higher_freak../important-acronyms-for-general-security-concepts-for-comptia-security-sy0-701-4cc3239cd700?source=rss------cybersecurity-5
+https://medium.com/@dharineeshj2/millions-of-records-exposed-via-sql-injection-in-a-tamil-nadu-government-portal-0981d3827ed2?source=rss------cybersecurity-5
