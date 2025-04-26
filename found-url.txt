@@ -184,3 +184,12 @@ https://medium.com/@rolextital/how-i-bypassed-authentication-on-a-funded-fashion
 https://medium.com/@mohamadshahkhajeh/why-you-should-embrace-laravel-jetstream-for-modern-authentication-ab643e8f9194?source=rss------web_security-5
 https://medium.com/meetcyber/breaking-the-hierarchy-how-i-bypassed-role-restrictions-to-become-owner-2635e1e33d85?source=rss------web_application_security-5
 https://medium.com/@rolextital/how-i-bypassed-authentication-on-a-funded-fashion-site-and-took-over-an-account-8b8a9189fb4a?source=rss------web_application_security-5
+https://medium.com/@ibtissamhammadi/how-i-bypassed-a-waf-found-my-first-xss-bug-22429d7a3655?source=rss------bug_bounty-5
+https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty-5
+https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_writeup-5
+https://medium.com/@agarwaldaksh18/day-17-how-to-secure-apis-and-prevent-server-side-parameter-pollution-b116538e1e70?source=rss------web_security-5
+https://medium.com/@xavierj.cruz/cross-site-request-forgery-csrf-and-how-to-mitigate-it-f524b95424cf?source=rss------web_security-5
+https://medium.com/@xavierj.cruz/cross-site-request-forgery-csrf-and-how-to-mitigate-it-f524b95424cf?source=rss------csrf-5
+https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_tips-5
+https://medium.com/@ibtissamhammadi/how-i-bypassed-a-waf-found-my-first-xss-bug-22429d7a3655?source=rss------cybersecurity-5
+https://medium.com/@agarwaldaksh18/day-17-how-to-secure-apis-and-prevent-server-side-parameter-pollution-b116538e1e70?source=rss------cybersecurity-5
