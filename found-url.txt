@@ -213,3 +213,9 @@ https://medium.com/@gozde_t/letsdefend-soc-write-up-possible-sql-injection-paylo
 https://medium.com/@haitam.lazaar/tryhackme-hacker-vs-hacker-walkthrough-web-shell-exploitation-privilege-escalation-9390dd0f14a0?source=rss------cybersecurity-5
 https://medium.com/@gozde_t/letsdefend-soc-write-up-possible-sql-injection-payload-detected-4a14bc570ba1?source=rss------cybersecurity-5
 https://medium.com/@andi.dev/difference-between-authorization-and-authentication-e535563344e5?source=rss------cybersecurity-5
+https://medium.com/@vasubhan/subdomain-takeover-on-vdp-32cac749bf16?source=rss------bug_bounty-5
+https://medium.com/@embossdotar/how-many-ethical-hackers-are-out-there-a-global-look-through-google-bug-hunters-data-a09fb8e2329e?source=rss------osint-5
+https://merridvanpolat.medium.com/karanl%C4%B1k-web-dark-web-ve-osint-nas%C4%B1l-veri-toplan%C4%B1r-ve-analiz-edilir-5f704fad7156?source=rss------osint-5
+https://medium.com/@vasubhan/subdomain-takeover-on-vdp-32cac749bf16?source=rss------writeup-5
+https://medium.com/@current.cybersecurity/threat-actors-employing-sessionshark-to-bypass-office-365-mfa-defenses-0771cf7bb414?source=rss------cybersecurity-5
+https://medium.com/@embossdotar/how-many-ethical-hackers-are-out-there-a-global-look-through-google-bug-hunters-data-a09fb8e2329e?source=rss------cybersecurity-5
