@@ -193,3 +193,15 @@ https://medium.com/@xavierj.cruz/cross-site-request-forgery-csrf-and-how-to-miti
 https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_tips-5
 https://medium.com/@ibtissamhammadi/how-i-bypassed-a-waf-found-my-first-xss-bug-22429d7a3655?source=rss------cybersecurity-5
 https://medium.com/@agarwaldaksh18/day-17-how-to-secure-apis-and-prevent-server-side-parameter-pollution-b116538e1e70?source=rss------cybersecurity-5
+https://mushirsyed.medium.com/xss-vulnerability-on-one-of-the-top-10-universities-in-india-a2088fd31ef5?source=rss------bug_bounty-5
+https://medium.com/@zoningxtr/how-i-chained-template-injections-across-pages-to-trigger-reflected-xss-5d4ef68efac5?source=rss------bug_bounty-5
+https://medium.com/@zoningxtr/how-i-chained-template-injections-across-pages-to-trigger-reflected-xss-5d4ef68efac5?source=rss------penetration_testing-5
+https://medium.com/@marvinhuangzhicheng/caas-writeup-fee60b4f0869?source=rss------picoctf-5
+https://medium.com/@mylescorey87/google-dorking-project-4cfc708e0db8?source=rss------osint-5
+https://medium.com/@vaibhavsaxena599/how-jwt-json-web-token-works-in-depth-a-complete-guide-57ee72562f49?source=rss------hashing-5
+https://medium.com/@vaibhavsaxena599/how-jwt-json-web-token-works-in-depth-a-complete-guide-57ee72562f49?source=rss------encryption-5
+https://medium.com/@ctf_frag/capstone-lab-enumerate-the-learning-module-exercise-vm-2-and-exploit-the-sqli-vulnerability-to-8328c4cf2426?source=rss------writeup-5
+https://mushirsyed.medium.com/xss-vulnerability-on-one-of-the-top-10-universities-in-india-a2088fd31ef5?source=rss------xss_vulnerability-5
+https://mushirsyed.medium.com/xss-vulnerability-on-one-of-the-top-10-universities-in-india-a2088fd31ef5?source=rss------bug_bounty_tips-5
+https://medium.com/@zoningxtr/how-i-chained-template-injections-across-pages-to-trigger-reflected-xss-5d4ef68efac5?source=rss------cybersecurity-5
+https://medium.com/@shefayerahmed/access-control-models-an-overview-based-on-security-levels-2c09dae99bf7?source=rss------cybersecurity-5
