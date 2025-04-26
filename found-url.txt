@@ -140,3 +140,4 @@ https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-buil
 https://medium.com/@joetheosintguy/understanding-the-intelligence-lifecycle-building-a-solid-foundation-for-intelligence-work-1744a2138c71?source=rss------cybersecurity-5
 https://medium.com/@ArtsSEC/burp-suite-creaci%C3%B3n-de-reportes-mediante-ai-f5ad88f5de1f?source=rss------burp_suite-5
 https://medium.com/@Am_Issath/rate-limiting-in-django-the-2025-way-how-to-protect-your-api-without-breaking-ux-9ff08677fb0f?source=rss------api_security-5
+https://medium.com/@nitinsgavane/next-js-middleware-vulnerability-how-cve-2025-29927-enables-authorization-bypass-1e0293d10e24?source=rss------bug_bounty-5
