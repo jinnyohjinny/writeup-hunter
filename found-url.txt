@@ -226,3 +226,6 @@ https://medium.com/@loyalonlytoday/twitch-analysis-tools-for-osint-investigators
 https://celvineadiputradev.medium.com/mengungkap-jejak-serangan-siber-analisis-mendalam-scanning-xss-dan-sql-injection-dari-file-pcap-5b6c9d452049?source=rss------sql_injection-5
 https://celvineadiputradev.medium.com/mengungkap-jejak-serangan-siber-analisis-mendalam-scanning-xss-dan-sql-injection-dari-file-pcap-5b6c9d452049?source=rss------cybersecurity-5
 https://medium.com/@loyalonlytoday/twitch-analysis-tools-for-osint-investigators-7c494fcfe0bc?source=rss------cybersecurity-5
+https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty-5
+https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty_writeup-5
+https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------cybersecurity-5
