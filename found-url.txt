@@ -219,3 +219,4 @@ https://merridvanpolat.medium.com/karanl%C4%B1k-web-dark-web-ve-osint-nas%C4%B1l
 https://medium.com/@vasubhan/subdomain-takeover-on-vdp-32cac749bf16?source=rss------writeup-5
 https://medium.com/@current.cybersecurity/threat-actors-employing-sessionshark-to-bypass-office-365-mfa-defenses-0771cf7bb414?source=rss------cybersecurity-5
 https://medium.com/@embossdotar/how-many-ethical-hackers-are-out-there-a-global-look-through-google-bug-hunters-data-a09fb8e2329e?source=rss------cybersecurity-5
+https://medium.com/codeelevation/stop-injection-attacks-in-mern-protect-your-app-from-nosql-javascript-injection-b6e380dfc28c?source=rss------owasp_top_10-5
