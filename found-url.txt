@@ -249,3 +249,9 @@ https://medium.com/@ganeshbalajiv2004/from-sql-injection-to-weak-passwords-a-dee
 https://medium.com/@ganeshbalajiv2004/from-sql-injection-to-weak-passwords-a-deep-dive-into-a-tamil-nadu-government-security-flaw-1b648d62d457?source=rss------sql_injection-5
 https://osintteam.blog/security-and-compliance-fundamentals-for-beginners-security-sy0-701-with-real-life-examples-e6c6ad58a496?source=rss------cybersecurity-5
 https://medium.com/cryptocrimevictimsassistance/is-trust-wallet-metamask-safe-or-can-it-be-hacked-08c9801d4099?source=rss------cybersecurity-5
+https://medium.com/@parthchheda777/understanding-csrf-cross-site-request-forgery-08d0ea732026?source=rss------bug_bounty-5
+https://medium.com/@embossdotar/mapping-the-worlds-ethical-hackers-insights-from-hackerone-platform-ca45592861e6?source=rss------osint-5
+https://medium.com/@parthchheda777/understanding-csrf-cross-site-request-forgery-08d0ea732026?source=rss------csrf-5
+https://infosecwriteups.com/login-who-needs-that-bypassing-oauth-like-a-lazy-hacker-on-sunday-%EF%B8%8F-76802cc8025d?source=rss------bug_bounty-5
+https://infosecwriteups.com/login-who-needs-that-bypassing-oauth-like-a-lazy-hacker-on-sunday-%EF%B8%8F-76802cc8025d?source=rss------cybersecurity-5
+https://medium.com/@parthchheda777/understanding-csrf-cross-site-request-forgery-08d0ea732026?source=rss------cybersecurity-5
