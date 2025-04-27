@@ -268,3 +268,10 @@ https://medium.com/@N0aziXss/from-discovery-to-patch-critical-dom-xss-open-redir
 https://medium.com/@owolabitolu/letsdefend-soc165-possible-sql-injection-payload-detected-a9301ec5ea02?source=rss------sql_injection-5
 https://kumarmohank889.medium.com/privilege-escalation-via-idor-and-acl-bypass-in-a-saas-application-e079bcd2cc4a?source=rss------bug_bounty_tips-5
 https://medium.com/@michiel_29750/welcome-to-ccwb-cybersecurity-compliance-without-bullshit-6f9a5f16fa42?source=rss------cybersecurity-5
+https://infosecwriteups.com/vaulting-over-a-innerhtml-sink-in-a-locked-down-csp-a628be8ba9dc?source=rss------bug_bounty-5
+https://medium.com/@N0aziXss/from-discovery-to-patch-critical-dom-xss-open-redirect-in-toyotas-parts-portal-e36383fa1aa1?source=rss------bug_bounty-5
+https://medium.com/@mohamedashfaq01/guarding-the-web-a-beginners-guide-to-csrf-xss-and-sql-injection-779c1d738593?source=rss------web_security-5
+https://medium.com/@N0aziXss/from-discovery-to-patch-critical-dom-xss-open-redirect-in-toyotas-parts-portal-e36383fa1aa1?source=rss------web_security-5
+https://medium.com/@mohamedashfaq01/guarding-the-web-a-beginners-guide-to-csrf-xss-and-sql-injection-779c1d738593?source=rss------application_security-5
+https://seczap.medium.com/digital-psychological-warfare-d9425feea1c0?source=rss------osint-5
+https://srhoe.medium.com/my-first-bash-recon-script-36d0cf3ead61?source=rss------cybersecurity-5
