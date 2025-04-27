@@ -229,3 +229,7 @@ https://medium.com/@loyalonlytoday/twitch-analysis-tools-for-osint-investigators
 https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty-5
 https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty_writeup-5
 https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------cybersecurity-5
+https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e?source=rss------bug_bounty-5
+https://medium.com/@parthchheda777/understanding-xss-cross-site-scripting-4cfbcc7bab2e?source=rss------bug_bounty-5
+https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e?source=rss------bug_bounty_writeup-5
+https://medium.com/@pinobaddo/the-complete-guide-to-manual-authentication-testing-0c31bfbced88?source=rss------owasp_top_10-5
