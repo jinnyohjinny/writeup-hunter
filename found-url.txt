@@ -255,3 +255,8 @@ https://medium.com/@parthchheda777/understanding-csrf-cross-site-request-forgery
 https://infosecwriteups.com/login-who-needs-that-bypassing-oauth-like-a-lazy-hacker-on-sunday-%EF%B8%8F-76802cc8025d?source=rss------bug_bounty-5
 https://infosecwriteups.com/login-who-needs-that-bypassing-oauth-like-a-lazy-hacker-on-sunday-%EF%B8%8F-76802cc8025d?source=rss------cybersecurity-5
 https://medium.com/@parthchheda777/understanding-csrf-cross-site-request-forgery-08d0ea732026?source=rss------cybersecurity-5
+https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-18-diving-into-nosql-injection-a-hidden-danger-a4a32d69ddce?source=rss------web_security-5
+https://medium.com/@dam_coffee/gralhix-exercise-010-0d3e5ea86061?source=rss------osint-5
+https://medium.com/osint-unleashed/automating-cve-data-collection-with-web-scrapping-966323bde819?source=rss------cve-5
+https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-18-diving-into-nosql-injection-a-hidden-danger-a4a32d69ddce?source=rss------cybersecurity-5
+https://medium.com/@firiki.intel/hiddenlayers-research-on-universal-prompt-injection-bypass-89a91473eac9?source=rss------cybersecurity-5
