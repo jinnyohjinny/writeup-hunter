@@ -233,3 +233,11 @@ https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-636732314
 https://medium.com/@parthchheda777/understanding-xss-cross-site-scripting-4cfbcc7bab2e?source=rss------bug_bounty-5
 https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e?source=rss------bug_bounty_writeup-5
 https://medium.com/@pinobaddo/the-complete-guide-to-manual-authentication-testing-0c31bfbced88?source=rss------owasp_top_10-5
+https://medium.com/@riyanyan2/unsecured-memcached-server-leading-to-sensitive-information-disclosure-dfa2bd2dfdb4?source=rss------vulnerability-5
+https://medium.com/osint-unleashed/how-to-run-a-vulnerability-scan-and-avoid-the-nightmare-that-cost-me-5k-5d797c114829?source=rss------vulnerability-5
+https://medium.com/@thespycollection/spy-news-2025-week-17-555bb350be06?source=rss------osint-5
+https://kalimux.medium.com/how-to-install-and-use-sqlmap-in-termux-a-complete-guide-for-beginners-0e161cb7f6ef?source=rss------sqlmap-5
+https://medium.com/@priscillabigail/htb-cap-writeup-08d7ddccbac7?source=rss------web_application_security-5
+https://medium.com/@sundukaysel/sql-injection-ve-xss-a%C3%A7%C4%B1klar%C4%B1-anla%C5%9F%C4%B1l%C4%B1r-%C3%B6rneklerle-g%C3%BCvenlik-i%CC%87pu%C3%A7lar%C4%B1-2c61167dc2ca?source=rss------sql_injection-5
+https://kalimux.medium.com/how-to-install-and-use-sqlmap-in-termux-a-complete-guide-for-beginners-0e161cb7f6ef?source=rss------cybersecurity-5
+https://medium.com/@sundukaysel/sql-injection-ve-xss-a%C3%A7%C4%B1klar%C4%B1-anla%C5%9F%C4%B1l%C4%B1r-%C3%B6rneklerle-g%C3%BCvenlik-i%CC%87pu%C3%A7lar%C4%B1-2c61167dc2ca?source=rss------cybersecurity-5
