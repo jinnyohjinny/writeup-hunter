@@ -328,3 +328,5 @@ https://medium.com/@aurence63/mastering-int-os-intos-rewards-for-maximum-earning
 https://systemweakness.com/how-to-bypass-access-controls-mechanisms-portswigger-web-security-academy-access-control-b1f9a3e7790f?source=rss------portswigger-5
 https://systemweakness.com/how-to-bypass-access-controls-mechanisms-portswigger-web-security-academy-access-control-b1f9a3e7790f?source=rss------idor-5
 https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-19-extracting-secrets-with-nosql-injection-a-hackers-approach-ec0b700965f1?source=rss------cybersecurity-5
+https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-19-extracting-secrets-with-nosql-injection-a-hackers-approach-ec0b700965f1?source=rss------web_security-5
+https://4swolf.medium.com/bb01-advanced-recon-taking-your-subdomain-discovery-to-the-next-level-0d2538d1f3a9?source=rss------hackerone-5
