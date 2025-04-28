@@ -305,3 +305,6 @@ https://osintteam.blog/osints-dark-cousin-digital-forensics-c55b1337e8f5?source=
 https://osintteam.blog/top-10-underrated-websites-every-cybersecurity-enthusiast-should-explore-96fdf522fb4a?source=rss----2983bc435765---4
 https://osintteam.blog/security-clearances-family-risks-and-the-critical-role-of-osint-00664712362b?source=rss----2983bc435765---4
 https://osintteam.blog/the-wild-new-malware-that-outsmarted-antivirus-and-nearly-wrecked-everything-4f30a8e1b95a?source=rss----2983bc435765---4
+https://osintteam.blog/aes-algorithm-fdcea719d28d?source=rss------cryptography-5
+https://osintteam.blog/aes-algorithm-fdcea719d28d?source=rss------encryption-5
+https://osintteam.blog/intelbroker-a-closer-look-into-a-prolific-cybercrime-threat-actor-1ba4a80aa07a?source=rss------cybersecurity-5
