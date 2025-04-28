@@ -336,3 +336,12 @@ https://ehteshamulhaq198.medium.com/exploiting-a-referer-header-for-open-redirec
 https://medium.com/@ibtissamhammadi/i-hijacked-accounts-in-10-minutes-idor-bug-b44ae8e53dfa?source=rss------hackerone-5
 https://medium.com/@alirizaaslan/xss-cross-site-scripting-zafiyeti-derinlemesine-i%CC%87nceleme-5ad6c8525871?source=rss------cross_site_scripting-5
 https://ehteshamulhaq198.medium.com/exploiting-a-referer-header-for-open-redirect-ee2baa4a45b5?source=rss------open_redirect-5
+https://4swolf.medium.com/the-osint-blueprint-elevate-your-investigation-skills-to-extraordinary-levels-0e7f7c832b9d?source=rss------bug_bounty-5
+https://medium.com/@ninadwalanj/authera-a-passwordless-2a-authentication-system-c1a6d151d537?source=rss------web_security-5
+https://4swolf.medium.com/the-osint-blueprint-elevate-your-investigation-skills-to-extraordinary-levels-0e7f7c832b9d?source=rss------hackerone-5
+https://medium.com/@ps.floyd.world/exposing-hidden-vulnerabilities-how-leakhound-gitleaks-scanner-unmasks-625782a90059?source=rss------osint-5
+https://medium.com/hacktrace/artificial-sleuths-using-ai-to-up-your-osint-game-1e8de52f674e?source=rss------osint-5
+https://medium.com/@mylescorey87/sn1per-security-27e04d259a8a?source=rss------osint-5
+https://4swolf.medium.com/the-osint-blueprint-elevate-your-investigation-skills-to-extraordinary-levels-0e7f7c832b9d?source=rss------osint-5
+https://medium.com/@mike-o-donnell/is-the-world-getting-stupider-e6439583aecd?source=rss------intelligence-5
+https://xss0r.medium.com/unlock-free-access-to-xss0r-your-xss-success-deserves-a-reward-160754315afd?source=rss------xss_vulnerability-5
