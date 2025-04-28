@@ -357,3 +357,9 @@ https://osintadmire.medium.com/the-luxury-lie-what-millions-of-views-couldnt-hid
 https://medium.com/@fvso231100/passwords-alone-wont-save-you-the-future-of-strong-authentication-9046a8ab4418?source=rss------owasp_top_10-5
 https://medium.com/@ivandano77/lookup-writeup-tryhackme-easy-machine-1018f2353cb8?source=rss------ctf-5
 https://medium.com/@ivandano77/lookup-writeup-tryhackme-easy-machine-1018f2353cb8?source=rss------cybersecurity-5
+https://arayofhope7.medium.com/day-13-visible-error-based-sql-injection-zero-to-hero-blind-injection-portswigger-3da2241a1672?source=rss------bug_bounty-5
+https://arayofhope7.medium.com/day-13-visible-error-based-sql-injection-zero-to-hero-blind-injection-portswigger-3da2241a1672?source=rss------penetration_testing-5
+https://medium.com/@adhamhashem2024/local-file-inclusion-lfi-vs-remote-file-inclusion-rfi-55c6df7427c5?source=rss------vulnerability-5
+https://medium.com/@djosephux/hacktoria-discord-challenge-osint247-the-cult-part-1-43fd3fc81fc5?source=rss------osint-5
+https://medium.com/@supr4s.other/road-to-ssrf-pdf-generation-and-filter-bypass-on-asp-net-application-dd3aa91c0fed?source=rss------bug_bounty-5
+https://medium.com/@info_21401/5-ways-to-protect-your-kids-when-they-use-iot-products-d96681a2dbad?source=rss------cybersecurity-5
