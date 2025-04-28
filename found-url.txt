@@ -330,3 +330,9 @@ https://systemweakness.com/how-to-bypass-access-controls-mechanisms-portswigger-
 https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-19-extracting-secrets-with-nosql-injection-a-hackers-approach-ec0b700965f1?source=rss------cybersecurity-5
 https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-19-extracting-secrets-with-nosql-injection-a-hackers-approach-ec0b700965f1?source=rss------web_security-5
 https://4swolf.medium.com/bb01-advanced-recon-taking-your-subdomain-discovery-to-the-next-level-0d2538d1f3a9?source=rss------hackerone-5
+https://medium.com/@ibtissamhammadi/i-hijacked-accounts-in-10-minutes-idor-bug-b44ae8e53dfa?source=rss------bug_bounty-5
+https://ehteshamulhaq198.medium.com/exploiting-a-referer-header-for-open-redirect-ee2baa4a45b5?source=rss------bug_bounty-5
+https://ehteshamulhaq198.medium.com/exploiting-a-referer-header-for-open-redirect-ee2baa4a45b5?source=rss------penetration_testing-5
+https://medium.com/@ibtissamhammadi/i-hijacked-accounts-in-10-minutes-idor-bug-b44ae8e53dfa?source=rss------hackerone-5
+https://medium.com/@alirizaaslan/xss-cross-site-scripting-zafiyeti-derinlemesine-i%CC%87nceleme-5ad6c8525871?source=rss------cross_site_scripting-5
+https://ehteshamulhaq198.medium.com/exploiting-a-referer-header-for-open-redirect-ee2baa4a45b5?source=rss------open_redirect-5
