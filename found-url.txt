@@ -282,3 +282,7 @@ https://medium.com/@dam_coffee/gralhix-exercise-011-4db0c33a8465?source=rss-----
 https://medium.com/@eldas-real/how-tiktok-evolved-into-a-primary-news-source-for-gen-z-a1765aaf8c9b?source=rss------osint-5
 https://medium.com/@cyber.bae/burp-suite-the-basics-tryhackme-room-walkthrough-ff215d8ca49e?source=rss------burp_suite-5
 https://medium.com/@kroush333/manual-testing-for-privilege-escalation-and-broken-access-control-my-methodology-a3b9f41b82a2?source=rss------bug_bounty_tips-5
+https://adversarialedge.medium.com/modern-windows-exploitation-patch-diffing-for-zero-days-814e95963b9c?source=rss------penetration_testing-5
+https://osintteam.blog/mapping-the-worlds-ethical-hackers-insights-from-hackerone-platform-ca45592861e6?source=rss------hackerone-5
+https://osintteam.blog/mapping-the-worlds-ethical-hackers-insights-from-hackerone-platform-ca45592861e6?source=rss------osint-5
+https://adversarialedge.medium.com/modern-windows-exploitation-patch-diffing-for-zero-days-814e95963b9c?source=rss------cybersecurity-5
