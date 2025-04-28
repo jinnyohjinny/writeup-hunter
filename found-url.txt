@@ -363,3 +363,6 @@ https://medium.com/@adhamhashem2024/local-file-inclusion-lfi-vs-remote-file-incl
 https://medium.com/@djosephux/hacktoria-discord-challenge-osint247-the-cult-part-1-43fd3fc81fc5?source=rss------osint-5
 https://medium.com/@supr4s.other/road-to-ssrf-pdf-generation-and-filter-bypass-on-asp-net-application-dd3aa91c0fed?source=rss------bug_bounty-5
 https://medium.com/@info_21401/5-ways-to-protect-your-kids-when-they-use-iot-products-d96681a2dbad?source=rss------cybersecurity-5
+https://medium.com/@dam_coffee/gralhix-exercise-012-f5b57ffd4f65?source=rss------osint-5
+https://medium.com/@anil.babu002/sap-netweaver-cve-2025-31324-lab-setup-192f390c0493?source=rss------cybersecurity-5
+https://medium.com/@dh6875/soc262-screenconnect-authentication-bypass-exploitation-detected-cve-2024-1709-671b2ae58955?source=rss------cybersecurity-5
