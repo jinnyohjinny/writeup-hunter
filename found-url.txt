@@ -323,3 +323,8 @@ https://towardsaws.com/encoding-vs-encryption-why-knowing-the-difference-makes-y
 https://infosecwriteups.com/%EF%B8%8Fhow-to-setup-a-custom-subdomain-on-xss-ht-a-complete-hackers-guide-a0018704c391?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/500-bounty-for-a-simple-open-redirect-a34051071a5c?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/login-who-needs-that-bypassing-oauth-like-a-lazy-hacker-on-sunday-%EF%B8%8F-76802cc8025d?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/jwt-meet-me-outside-how-i-decoded-re-signed-and-owned-the-app-95791eabcf5d?source=rss------bug_bounty-5
+https://medium.com/@aurence63/mastering-int-os-intos-rewards-for-maximum-earnings-a087f7942bba?source=rss------osint-5
+https://systemweakness.com/how-to-bypass-access-controls-mechanisms-portswigger-web-security-academy-access-control-b1f9a3e7790f?source=rss------portswigger-5
+https://systemweakness.com/how-to-bypass-access-controls-mechanisms-portswigger-web-security-academy-access-control-b1f9a3e7790f?source=rss------idor-5
+https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-19-extracting-secrets-with-nosql-injection-a-hackers-approach-ec0b700965f1?source=rss------cybersecurity-5
