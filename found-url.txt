@@ -401,3 +401,6 @@ https://salvacybersec.medium.com/mapping-critical-infrastructure-a-cyber-threat-
 https://medium.com/@reznabdrhmn/burp-lab-exploiting-xss-to-bypass-csrf-detailed-explanation-and-walkthrough-961b0bd538a7?source=rss------burp_suite-5
 https://javascript.plainenglish.io/securing-your-node-js-api-with-jwt-authentication-and-authorization-made-simple-0d019ab49350?source=rss------api_security-5
 https://medium.com/@reznabdrhmn/burp-lab-exploiting-xss-to-bypass-csrf-detailed-explanation-and-walkthrough-961b0bd538a7?source=rss------xss_vulnerability-5
+https://medium.com/@scottbolen/inside-the-shadows-how-chinese-triad-fronts-fuel-human-trafficking-and-exploitation-d00127a3c54f?source=rss------osint-5
+https://erdemir-ata.medium.com/false-positive-true-leak-the-hidden-risks-of-using-the-public-version-of-any-run-5985b521ac7b?source=rss------osint-5
+https://osintteam.blog/what-is-rsa-and-aes-encryption-9bb040e6da8e?source=rss------encryption-5
