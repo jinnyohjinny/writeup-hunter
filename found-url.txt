@@ -387,3 +387,12 @@ https://medium.com/coinmonks/the-luxury-lie-what-millions-of-views-couldnt-hide-
 https://medium.com/coinmonks/the-luxury-lie-what-millions-of-views-couldnt-hide-f6b4472fbd24?source=rss------intelligence-5
 https://medium.com/@annumaurya8190/biometric-authentication-and-secure-apis-enhancing-digital-security-in-a-connected-world-ad16cd05416f?source=rss------api_security-5
 https://infosecwriteups.com/cloudflare-tunnel-misconfigurations-a-silent-threat-in-devops-pipelines-c1842ca56fdd?source=rss------cybersecurity-5
+https://infosecwriteups.com/how-hackers-try-to-bypass-403-forbidden-pages-239c3f51a674?source=rss------bug_bounty-5
+https://medium.com/@agarwaldaksh18/%EF%B8%8Fday-20-clickjacking-explained-how-it-works-real-world-examples-0f0312416650?source=rss------web_security-5
+https://medium.com/@proxy.302/top-free-proxy-sites-for-students-in-2025-bypass-restrictions-with-ease-a0cc161f92e2?source=rss------web_security-5
+https://infosecwriteups.com/finding-child-abuse-sites-on-the-darkweb-efc3a954caf6?source=rss------osint-5
+https://medium.com/@agarwaldaksh18/%EF%B8%8Fday-20-clickjacking-explained-how-it-works-real-world-examples-0f0312416650?source=rss------cybersecurity-5
+https://infosecwriteups.com/cloudflare-tunnel-misconfigurations-a-silent-threat-in-devops-pipelines-c1842ca56fdd?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/automating-information-gathering-for-ethical-hackers-autorecon-tutorial-cd0448dad93f?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/how-hackers-try-to-bypass-403-forbidden-pages-239c3f51a674?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/jwt-meet-me-outside-how-i-decoded-re-signed-and-owned-the-app-95791eabcf5d?source=rss----7b722bfd1b8d---4
