@@ -404,3 +404,7 @@ https://medium.com/@reznabdrhmn/burp-lab-exploiting-xss-to-bypass-csrf-detailed-
 https://medium.com/@scottbolen/inside-the-shadows-how-chinese-triad-fronts-fuel-human-trafficking-and-exploitation-d00127a3c54f?source=rss------osint-5
 https://erdemir-ata.medium.com/false-positive-true-leak-the-hidden-risks-of-using-the-public-version-of-any-run-5985b521ac7b?source=rss------osint-5
 https://osintteam.blog/what-is-rsa-and-aes-encryption-9bb040e6da8e?source=rss------encryption-5
+https://raymondv.medium.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss------bug_bounty-5
+https://raymondv.medium.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss------account_takeover-5
+https://medium.com/@omara11/review-how-to-prepare-for-the-elearnsecurity-certified-incident-responder-ecir-exam-be8ad9a89cdd?source=rss------cybersecurity-5
+https://raymondv.medium.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss------cybersecurity-5
