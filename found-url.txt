@@ -382,3 +382,6 @@ https://osintteam.blog/the-mental-models-that-will-make-you-a-better-security-an
 https://osintteam.blog/octoparse-the-only-no-code-web-scraping-tool-youll-ever-need-0b8732aa3b6b?source=rss----2983bc435765---4
 https://osintteam.blog/how-i-found-a-broken-access-control-vulnerability-that-exposed-interview-answers-e353128f6883?source=rss----2983bc435765---4
 https://osintteam.blog/100-password-reset-flaw-7827effebca2?source=rss----2983bc435765---4
+https://osintteam.blog/threatcrowd-attack-surface-recon-632252cbbafa?source=rss------osint-5
+https://medium.com/coinmonks/the-luxury-lie-what-millions-of-views-couldnt-hide-f6b4472fbd24?source=rss------osint-5
+https://medium.com/coinmonks/the-luxury-lie-what-millions-of-views-couldnt-hide-f6b4472fbd24?source=rss------intelligence-5
