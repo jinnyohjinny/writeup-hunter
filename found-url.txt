@@ -366,3 +366,5 @@ https://medium.com/@info_21401/5-ways-to-protect-your-kids-when-they-use-iot-pro
 https://medium.com/@dam_coffee/gralhix-exercise-012-f5b57ffd4f65?source=rss------osint-5
 https://medium.com/@anil.babu002/sap-netweaver-cve-2025-31324-lab-setup-192f390c0493?source=rss------cybersecurity-5
 https://medium.com/@dh6875/soc262-screenconnect-authentication-bypass-exploitation-detected-cve-2024-1709-671b2ae58955?source=rss------cybersecurity-5
+https://medium.com/@loyalonlytoday/find-js-files-of-your-bug-bounty-target-js-files-recon-306c3b169bae?source=rss------bug_bounty-5
+https://medium.com/@loyalonlytoday/find-js-files-of-your-bug-bounty-target-js-files-recon-306c3b169bae?source=rss------bug_bounty_tips-5
