@@ -396,3 +396,8 @@ https://infosecwriteups.com/cloudflare-tunnel-misconfigurations-a-silent-threat-
 https://infosecwriteups.com/automating-information-gathering-for-ethical-hackers-autorecon-tutorial-cd0448dad93f?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/how-hackers-try-to-bypass-403-forbidden-pages-239c3f51a674?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/jwt-meet-me-outside-how-i-decoded-re-signed-and-owned-the-app-95791eabcf5d?source=rss----7b722bfd1b8d---4
+https://medium.com/@alexeyd2008/my-first-hackthebox-challenge-nibbles-using-metasploit-for-privilege-escalation-3f6b9e874d9e?source=rss------penetration_testing-5
+https://salvacybersec.medium.com/mapping-critical-infrastructure-a-cyber-threat-intelligence-analysts-guide-to-openstreetmap-754116e430ef?source=rss------osint-5
+https://medium.com/@reznabdrhmn/burp-lab-exploiting-xss-to-bypass-csrf-detailed-explanation-and-walkthrough-961b0bd538a7?source=rss------burp_suite-5
+https://javascript.plainenglish.io/securing-your-node-js-api-with-jwt-authentication-and-authorization-made-simple-0d019ab49350?source=rss------api_security-5
+https://medium.com/@reznabdrhmn/burp-lab-exploiting-xss-to-bypass-csrf-detailed-explanation-and-walkthrough-961b0bd538a7?source=rss------xss_vulnerability-5
