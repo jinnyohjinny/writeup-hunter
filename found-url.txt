@@ -408,3 +408,14 @@ https://raymondv.medium.com/1-click-account-takeover-xss-cors-misconfiguration-j
 https://raymondv.medium.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss------account_takeover-5
 https://medium.com/@omara11/review-how-to-prepare-for-the-elearnsecurity-certified-incident-responder-ecir-exam-be8ad9a89cdd?source=rss------cybersecurity-5
 https://raymondv.medium.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss------cybersecurity-5
+https://infosecwriteups.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss------bug_bounty-5
+https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------application_security-5
+https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------penetration_testing-5
+https://medium.com/@stoicgaster0.07/how-i-exploited-an-elfinder-vulnerability-on-lookup-d34d9a01e0a2?source=rss------tryhackme-5
+https://infosecwriteups.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss------account_takeover-5
+https://medium.com/@stoicgaster0.07/how-i-exploited-an-elfinder-vulnerability-on-lookup-d34d9a01e0a2?source=rss------rce-5
+https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------bug_bounty-5
+https://err0rgod.medium.com/intro-to-sql-injection-ec341c7be2ff?source=rss------sql_injection-5
+https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------bug_bounty_writeup-5
+https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------bug_bounty_tips-5
+https://err0rgod.medium.com/intro-to-sql-injection-ec341c7be2ff?source=rss------cybersecurity-5
