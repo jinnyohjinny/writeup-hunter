@@ -385,3 +385,5 @@ https://osintteam.blog/100-password-reset-flaw-7827effebca2?source=rss----2983bc
 https://osintteam.blog/threatcrowd-attack-surface-recon-632252cbbafa?source=rss------osint-5
 https://medium.com/coinmonks/the-luxury-lie-what-millions-of-views-couldnt-hide-f6b4472fbd24?source=rss------osint-5
 https://medium.com/coinmonks/the-luxury-lie-what-millions-of-views-couldnt-hide-f6b4472fbd24?source=rss------intelligence-5
+https://medium.com/@annumaurya8190/biometric-authentication-and-secure-apis-enhancing-digital-security-in-a-connected-world-ad16cd05416f?source=rss------api_security-5
+https://infosecwriteups.com/cloudflare-tunnel-misconfigurations-a-silent-threat-in-devops-pipelines-c1842ca56fdd?source=rss------cybersecurity-5
