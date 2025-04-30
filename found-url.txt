@@ -427,3 +427,5 @@ https://medium.com/@aps88/vulnhub-venom-1448cb8e7d4e?source=rss------vulnhub-5
 https://osintteam.blog/450-bounty-stole-facebook-oauth-access-tokens-via-phabricator-4c4468268302?source=rss----2983bc435765---4
 https://osintteam.blog/what-is-rsa-and-aes-encryption-9bb040e6da8e?source=rss----2983bc435765---4
 https://osintteam.blog/threatcrowd-attack-surface-recon-632252cbbafa?source=rss----2983bc435765---4
+https://medium.com/@tutkunbatu/proving-grounds-practice-pelican-walkthrough-13ca4638121c?source=rss------penetration_testing-5
+https://medium.com/@nikhilshakya0905/operation-root-access-walkthrough-ecf33ed93667?source=rss------tryhackme-5
