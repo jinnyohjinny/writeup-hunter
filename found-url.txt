@@ -449,3 +449,7 @@ https://infosecwriteups.com/from-sql-injection-to-weak-passwords-a-deep-dive-int
 https://infosecwriteups.com/1-click-account-takeover-xss-cors-misconfiguration-jwt-forgery-0cf73a28e236?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/how-to-build-a-cyber-threat-intelligence-collection-plan-ed36715f7f33?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/500-bug-bounty-open-redirection-via-oauth-on-shopify-4159387482f9?source=rss----7b722bfd1b8d---4
+https://medium.com/@iski/dom-inated-how-a-tiny-js-sink-turned-into-critical-xss-a9a1dbe97df2?source=rss------bug_bounty-5
+https://cybersecuritywriteups.com/caught-an-idor-vulnerability-on-a-private-program-earned-a-bounty-a99d3ac6602b?source=rss------bug_bounty-5
+https://medium.com/meetcyber/the-invisible-trail-how-to-check-and-take-control-of-your-digital-footprint-0201020a44b2?source=rss------osint-5
+https://infosecwriteups.com/aws-in-the-line-of-fire-offensive-security-insights-used-by-hackers-aa610cd368e0?source=rss------cybersecurity-5
