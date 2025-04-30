@@ -475,3 +475,14 @@ https://medium.com/@hettt/sqlmap-the-ultimate-guide-to-automated-sql-injection-t
 https://medium.com/@hettt/sqlmap-the-ultimate-guide-to-automated-sql-injection-testing-92ec1a894230?source=rss------sql_injection-5
 https://z00x.medium.com/bypassing-email-based-2fa-via-client-side-response-tampering-an-informative-case-study-ef4c58b9c97f?source=rss------bug_bounty_tips-5
 https://medium.com/@marvinhuangzhicheng/soap-writeup-6038d3e64bd1?source=rss------cybersecurity-5
+https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------bug_bounty-5
+https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------bug_bounty_writeup-5
+https://medium.com/@AhmadSopyan/xss-part-9-dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-cb5650ac77b2?source=rss------penetration_testing-5
+https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------penetration_testing-5
+https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------hackerone-5
+https://r4gh4v.medium.com/the-osint-blueprint-elevate-your-investigation-skills-to-extraordinary-levels-0e7f7c832b9d?source=rss------hackerone-5
+https://osintteam.blog/mastering-google-dorking-advanced-techniques-for-osint-professionals-5cc9e36993b9?source=rss------osint-5
+https://medium.com/@rhvdiis/italy-pursues-alternatives-to-paragon-solutions-in-the-aftermath-of-espionage-scandal-868e655be5f8?source=rss------osint-5
+https://medium.com/@AhmadSopyan/xss-part-9-dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-cb5650ac77b2?source=rss------cross_site_scripting-5
+https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755?source=rss------idor-5
+https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------bug_bounty_tips-5
