@@ -486,3 +486,4 @@ https://medium.com/@rhvdiis/italy-pursues-alternatives-to-paragon-solutions-in-t
 https://medium.com/@AhmadSopyan/xss-part-9-dom-xss-in-document-write-sink-using-source-location-search-inside-a-select-element-cb5650ac77b2?source=rss------cross_site_scripting-5
 https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755?source=rss------idor-5
 https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------bug_bounty_tips-5
+https://bourhan-bouacida.medium.com/a-newbies-diary-me-and-clickjacking-vulnerability-5174123c8de9?source=rss------cybersecurity-5
