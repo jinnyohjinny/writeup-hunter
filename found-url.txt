@@ -434,3 +434,4 @@ https://osintteam.blog/what-is-hashing-d6a147a9b41d?source=rss------hashing-5
 https://osintteam.blog/what-is-hashing-d6a147a9b41d?source=rss------cryptography-5
 https://infosecwriteups.com/from-sql-injection-to-weak-passwords-a-deep-dive-into-a-tamil-nadu-government-security-flaw-1b648d62d457?source=rss------weak_password-5
 https://infosecwriteups.com/from-sql-injection-to-weak-passwords-a-deep-dive-into-a-tamil-nadu-government-security-flaw-1b648d62d457?source=rss------sql_injection-5
+https://medium.com/@samrodriguezgalope/the-dangerous-life-of-an-old-email-address-839f9c28abab?source=rss------osint-5
