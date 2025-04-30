@@ -453,3 +453,6 @@ https://medium.com/@iski/dom-inated-how-a-tiny-js-sink-turned-into-critical-xss-
 https://cybersecuritywriteups.com/caught-an-idor-vulnerability-on-a-private-program-earned-a-bounty-a99d3ac6602b?source=rss------bug_bounty-5
 https://medium.com/meetcyber/the-invisible-trail-how-to-check-and-take-control-of-your-digital-footprint-0201020a44b2?source=rss------osint-5
 https://infosecwriteups.com/aws-in-the-line-of-fire-offensive-security-insights-used-by-hackers-aa610cd368e0?source=rss------cybersecurity-5
+https://medium.com/@yee-yore/llm-powered-agent-for-automated-google-dorking-dcb14d609dc2?source=rss------osint-5
+https://medium.com/@cristopher.gilbert27/deteksi-dan-analisis-serangan-scanning-xss-dan-sql-injection-berbasis-wireshark-a1000e7b88fc?source=rss------cybersecurity-5
+https://medium.com/@ashkanhz800/sql-injection-the-silent-threat-lurking-in-your-database-and-how-to-stop-it-6c0b3bf35181?source=rss------cybersecurity-5
