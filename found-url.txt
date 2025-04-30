@@ -467,3 +467,11 @@ https://medium.com/@antipovzzzzz/andorra-and-osint-precision-intelligence-in-a-d
 https://medium.com/@mr45atwork.247/understanding-user-input-security-bypasses-techniques-and-real-examples-dade12f36653?source=rss------xss_vulnerability-5
 https://medium.com/@harahapfreddy3/identifying-and-analyzing-scanning-xss-and-sql-injection-attack-from-pcap-file-fea1adca0578?source=rss------sql_injection-5
 https://medium.com/@zephyrus18/how-i-found-my-first-bug-idor-vulnerability-got-a-500-bounty-d11b983e1460?source=rss------cybersecurity-5
+https://z00x.medium.com/bypassing-email-based-2fa-via-client-side-response-tampering-an-informative-case-study-ef4c58b9c97f?source=rss------bug_bounty_writeup-5
+https://medium.com/@zakyputra628/idor-ketika-url-bisa-jadi-kunci-untuk-bobol-data-orang-lain-7b68073f56d0?source=rss------web_security-5
+https://0xshuvo.medium.com/april-make-me-happy-bug-bounty-hunting-2af3fcf15746?source=rss------recon-5
+https://medium.com/@marvinhuangzhicheng/soap-writeup-6038d3e64bd1?source=rss------picoctf-5
+https://medium.com/@hettt/sqlmap-the-ultimate-guide-to-automated-sql-injection-testing-92ec1a894230?source=rss------sqlmap-5
+https://medium.com/@hettt/sqlmap-the-ultimate-guide-to-automated-sql-injection-testing-92ec1a894230?source=rss------sql_injection-5
+https://z00x.medium.com/bypassing-email-based-2fa-via-client-side-response-tampering-an-informative-case-study-ef4c58b9c97f?source=rss------bug_bounty_tips-5
+https://medium.com/@marvinhuangzhicheng/soap-writeup-6038d3e64bd1?source=rss------cybersecurity-5
