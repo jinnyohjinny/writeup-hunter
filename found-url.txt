@@ -456,3 +456,14 @@ https://infosecwriteups.com/aws-in-the-line-of-fire-offensive-security-insights-
 https://medium.com/@yee-yore/llm-powered-agent-for-automated-google-dorking-dcb14d609dc2?source=rss------osint-5
 https://medium.com/@cristopher.gilbert27/deteksi-dan-analisis-serangan-scanning-xss-dan-sql-injection-berbasis-wireshark-a1000e7b88fc?source=rss------cybersecurity-5
 https://medium.com/@ashkanhz800/sql-injection-the-silent-threat-lurking-in-your-database-and-how-to-stop-it-6c0b3bf35181?source=rss------cybersecurity-5
+https://medium.com/@zakyputra628/idor-ketika-url-bisa-jadi-kunci-untuk-bobol-data-orang-lain-7b68073f56d0?source=rss------bug_bounty-5
+https://medium.com/@zephyrus18/how-i-found-my-first-bug-idor-vulnerability-got-a-500-bounty-d11b983e1460?source=rss------bug_bounty-5
+https://medium.com/@mr45atwork.247/understanding-user-input-security-bypasses-techniques-and-real-examples-dade12f36653?source=rss------bug_bounty-5
+https://medium.com/@mr45atwork.247/understanding-user-input-security-bypasses-techniques-and-real-examples-dade12f36653?source=rss------penetration_testing-5
+https://medium.com/@antipovzzzzz/angola-and-osint-empowering-information-search-in-sub-saharan-africa-50e4267eae60?source=rss------osint-5
+https://medium.com/@antipovzzzzz/andorra-and-osint-precision-intelligence-in-a-digital-microstate-1f313e379807?source=rss------osint-5
+https://medium.com/@antipovzzzzz/angola-and-osint-empowering-information-search-in-sub-saharan-africa-50e4267eae60?source=rss------osint_tools-5
+https://medium.com/@antipovzzzzz/andorra-and-osint-precision-intelligence-in-a-digital-microstate-1f313e379807?source=rss------osint_tools-5
+https://medium.com/@mr45atwork.247/understanding-user-input-security-bypasses-techniques-and-real-examples-dade12f36653?source=rss------xss_vulnerability-5
+https://medium.com/@harahapfreddy3/identifying-and-analyzing-scanning-xss-and-sql-injection-attack-from-pcap-file-fea1adca0578?source=rss------sql_injection-5
+https://medium.com/@zephyrus18/how-i-found-my-first-bug-idor-vulnerability-got-a-500-bounty-d11b983e1460?source=rss------cybersecurity-5
