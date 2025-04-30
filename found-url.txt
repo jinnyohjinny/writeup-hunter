@@ -487,3 +487,10 @@ https://medium.com/@AhmadSopyan/xss-part-9-dom-xss-in-document-write-sink-using-
 https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755?source=rss------idor-5
 https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------bug_bounty_tips-5
 https://bourhan-bouacida.medium.com/a-newbies-diary-me-and-clickjacking-vulnerability-5174123c8de9?source=rss------cybersecurity-5
+https://frknayyildiz.medium.com/siteler-aras%C4%B1-betik-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-xss-zafiyeti-56b0049fa65f?source=rss------application_security-5
+https://frknayyildiz.medium.com/siteler-aras%C4%B1-betik-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-xss-zafiyeti-56b0049fa65f?source=rss------owasp_top_10-5
+https://frknayyildiz.medium.com/siteler-aras%C4%B1-betik-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-xss-zafiyeti-56b0049fa65f?source=rss------cross_site_scripting-5
+https://medium.com/@sonali.nogja.08/how-to-secure-your-next-js-application-against-common-threats-65c4ee072795?source=rss------csrf-5
+https://medium.com/@sonali.nogja.08/how-to-secure-your-next-js-application-against-common-threats-65c4ee072795?source=rss------xss_vulnerability-5
+https://frknayyildiz.medium.com/siteler-aras%C4%B1-betik-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-xss-zafiyeti-56b0049fa65f?source=rss------xss_vulnerability-5
+https://frknayyildiz.medium.com/siteler-aras%C4%B1-betik-%C3%A7al%C4%B1%C5%9Ft%C4%B1rma-xss-zafiyeti-56b0049fa65f?source=rss------cybersecurity-5
