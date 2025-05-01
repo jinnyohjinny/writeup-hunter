@@ -534,3 +534,13 @@ https://medium.com/@muhammadmaulanaa477/memahami-sql-injection-mengeksploitasi-d
 https://medium.com/@abhimistry06/linux-privilege-escalation-a-practical-guide-for-hackers-and-defenders-52343a0422e7?source=rss------cybersecurity-5
 https://infosecwriteups.com/bypassing-otp-unlocking-vulnerabilities-securing-your-app-a5eac4727515?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/how-i-bypassed-an-ip-block-without-changing-my-ip-e8082a43957b?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/the-secrets-behind-subdomain-takeovers-nobody-shares-ba6b5d7bf258?source=rss------bug_bounty-5
+https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty-5
+https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5
+https://pentest-testing-corp.medium.com/prevent-xxe-injection-in-symfony-code-fix-guideprevent-xxe-injection-in-symfony-code-fix-31d92f9f7849?source=rss------penetration_testing-5
+https://pentest-testing-corp.medium.com/prevent-xxe-injection-in-symfony-code-fix-guideprevent-xxe-injection-in-symfony-code-fix-31d92f9f7849?source=rss------vulnerability-5
+https://medium.com/@hacker_might/exposed-digigram-pyko-out-aoip-devices-accessible-online-without-login-cve-2025-3927-8f74307ba4c1?source=rss------cve-5
+https://medium.com/@hacker_might/exposed-digigram-pyko-out-aoip-devices-accessible-online-without-login-cve-2025-3927-8f74307ba4c1?source=rss------bug_bounty_tips-5
+https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_tips-5
+https://medium.com/@igor.berner/identity-and-access-management-b22ea3ce9115?source=rss------cybersecurity-5
+https://pentest-testing-corp.medium.com/prevent-xxe-injection-in-symfony-code-fix-guideprevent-xxe-injection-in-symfony-code-fix-31d92f9f7849?source=rss------cybersecurity-5
