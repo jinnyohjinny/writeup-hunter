@@ -544,3 +544,7 @@ https://medium.com/@hacker_might/exposed-digigram-pyko-out-aoip-devices-accessib
 https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_tips-5
 https://medium.com/@igor.berner/identity-and-access-management-b22ea3ce9115?source=rss------cybersecurity-5
 https://pentest-testing-corp.medium.com/prevent-xxe-injection-in-symfony-code-fix-guideprevent-xxe-injection-in-symfony-code-fix-31d92f9f7849?source=rss------cybersecurity-5
+https://it4chis3c.medium.com/1000-passive-recon-strategy-youre-not-using-yet-164f5b1e6231?source=rss------bug_bounty-5
+https://medium.com/@erdinurrohmat02/analisa-dan-cara-kerja-xss-cross-site-scripting-60ecca7988b6?source=rss------web_security-5
+https://medium.com/h7w/tryhackme-runtime-detection-evasion-writeup-4adc517e28b9?source=rss------tryhackme-5
+https://medium.com/h7w/tryhackme-runtime-detection-evasion-writeup-4adc517e28b9?source=rss------cybersecurity-5
