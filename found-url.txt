@@ -558,3 +558,11 @@ https://infosecwriteups.com/helicopter-administrators-247ctf-solution-writeup-bc
 https://medium.com/@sornphut/tryhackme-psycho-break-walkthough-ba1da6c02776?source=rss------tryhackme-5
 https://medium.com/@sornphut/tryhackme-psycho-break-walkthough-ba1da6c02776?source=rss------ctf-5
 https://towardsdev.com/stop-api-breaches-secure-asp-net-core-from-path-traversal-now-7c06e14d9d78?source=rss------vulnerability-5
+https://krishna-cyber.medium.com/jsrecon-101-unearthing-hidden-secrets-in-javascript-files-for-bug-bounty-success-%EF%B8%8F-%EF%B8%8F-0ee75778da59?source=rss------bug_bounty-5
+https://the7th.medium.com/how-to-hunt-for-p1-p2-blind-xss-87e027acd85b?source=rss------bug_bounty-5
+https://medium.com/@musayyabsharif/access-control-and-vulnerability-exploitation-3f754930c852?source=rss------web_security-5
+https://the7th.medium.com/how-to-hunt-for-p1-p2-blind-xss-87e027acd85b?source=rss------web_security-5
+https://cloudmersive.medium.com/how-to-prevent-malicious-epub-file-uploads-in-java-3c51b1a13733?source=rss------application_security-5
+https://krishna-cyber.medium.com/how-i-found-a-5k-bug-in-javascript-a-bug-bounty-story-dba44140efab?source=rss------osint-5
+https://krishna-cyber.medium.com/jsrecon-101-unearthing-hidden-secrets-in-javascript-files-for-bug-bounty-success-%EF%B8%8F-%EF%B8%8F-0ee75778da59?source=rss------osint-5
+https://medium.com/@musayyabsharif/access-control-and-vulnerability-exploitation-3f754930c852?source=rss------cybersecurity-5
