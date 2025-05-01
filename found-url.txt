@@ -551,3 +551,9 @@ https://medium.com/h7w/tryhackme-runtime-detection-evasion-writeup-4adc517e28b9?
 https://ghostman01.medium.com/mercedes-benz-hacking-f36605954d5f?source=rss------bug_bounty-5
 https://infosecwriteups.com/1000-passive-recon-strategy-youre-not-using-yet-164f5b1e6231?source=rss------bug_bounty-5
 https://medium.com/@whiteday1/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------xss_vulnerability-5
+https://www.youtube.com/watch?v=DgyPYA1iI_0
+https://medium.com/@melege/how-i-used-cloudflares-health-checks-to-bypass-their-waf-rules-75a8a55adcc6?source=rss------bug_bounty-5
+https://infosecwriteups.com/mercedes-benz-hacking-f36605954d5f?source=rss------bug_bounty-5
+https://infosecwriteups.com/helicopter-administrators-247ctf-solution-writeup-bc2f359b0525?source=rss------recon-5
+https://medium.com/@sornphut/tryhackme-psycho-break-walkthough-ba1da6c02776?source=rss------tryhackme-5
+https://medium.com/@sornphut/tryhackme-psycho-break-walkthough-ba1da6c02776?source=rss------ctf-5
