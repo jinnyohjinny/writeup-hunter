@@ -548,3 +548,6 @@ https://it4chis3c.medium.com/1000-passive-recon-strategy-youre-not-using-yet-164
 https://medium.com/@erdinurrohmat02/analisa-dan-cara-kerja-xss-cross-site-scripting-60ecca7988b6?source=rss------web_security-5
 https://medium.com/h7w/tryhackme-runtime-detection-evasion-writeup-4adc517e28b9?source=rss------tryhackme-5
 https://medium.com/h7w/tryhackme-runtime-detection-evasion-writeup-4adc517e28b9?source=rss------cybersecurity-5
+https://ghostman01.medium.com/mercedes-benz-hacking-f36605954d5f?source=rss------bug_bounty-5
+https://infosecwriteups.com/1000-passive-recon-strategy-youre-not-using-yet-164f5b1e6231?source=rss------bug_bounty-5
+https://medium.com/@whiteday1/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------xss_vulnerability-5
