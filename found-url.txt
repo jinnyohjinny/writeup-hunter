@@ -521,3 +521,6 @@ https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilit
 https://medium.com/@Tanvir0x1/bypassing-email-verification-to-hijack-any-account-no-user-interaction-needed-58539b18f36a?source=rss------bug_bounty-5
 https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-4-5a8b1d33e208?source=rss------sql_injection-5
 https://medium.com/@agarwaldaksh18/day-22-racing-against-logic-mastering-limit-overrun-race-conditions-4981cc66446e?source=rss------cybersecurity-5
+https://medium.com/@muhammadnurulfirdaus05/stored-xss-ancaman-tersembunyi-di-komentar-web-e86726efc116?source=rss------web_security-5
+https://medium.com/@muhammadnurulfirdaus05/stored-xss-ancaman-tersembunyi-di-komentar-web-e86726efc116?source=rss------cross_site_scripting-5
+https://medium.com/@muhammadnurulfirdaus05/stored-xss-ancaman-tersembunyi-di-komentar-web-e86726efc116?source=rss------cybersecurity-5
