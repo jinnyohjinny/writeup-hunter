@@ -524,3 +524,13 @@ https://medium.com/@agarwaldaksh18/day-22-racing-against-logic-mastering-limit-o
 https://medium.com/@muhammadnurulfirdaus05/stored-xss-ancaman-tersembunyi-di-komentar-web-e86726efc116?source=rss------web_security-5
 https://medium.com/@muhammadnurulfirdaus05/stored-xss-ancaman-tersembunyi-di-komentar-web-e86726efc116?source=rss------cross_site_scripting-5
 https://medium.com/@muhammadnurulfirdaus05/stored-xss-ancaman-tersembunyi-di-komentar-web-e86726efc116?source=rss------cybersecurity-5
+https://infosecwriteups.com/how-i-bypassed-an-ip-block-without-changing-my-ip-e8082a43957b?source=rss------bug_bounty-5
+https://blog.cubed.run/stop-api-breaches-secure-asp-net-core-from-path-traversal-now-7c06e14d9d78?source=rss------vulnerability-5
+https://infosecwriteups.com/exposing-money-mule-networks-on-telegram-381a687e0128?source=rss------osint-5
+https://infosecwriteups.com/how-i-bypassed-an-ip-block-without-changing-my-ip-e8082a43957b?source=rss------portswigger-5
+https://medium.com/@pepbritisnasetiawan/%EF%B8%8F-exploitation-of-cve-2024-3400-palo-alto-pan-os-command-injection-critical-a77d5e974967?source=rss------command_injection-5
+https://medium.com/@fadiladitya790/memahami-serangan-sql-injection-efek-dan-pencegahannya-b084a3139cc8?source=rss------sql_injection-5
+https://medium.com/@muhammadmaulanaa477/memahami-sql-injection-mengeksploitasi-dan-mencegah-serangan-database-587d38ca3369?source=rss------sql_injection-5
+https://medium.com/@abhimistry06/linux-privilege-escalation-a-practical-guide-for-hackers-and-defenders-52343a0422e7?source=rss------cybersecurity-5
+https://infosecwriteups.com/bypassing-otp-unlocking-vulnerabilities-securing-your-app-a5eac4727515?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/how-i-bypassed-an-ip-block-without-changing-my-ip-e8082a43957b?source=rss----7b722bfd1b8d---4
