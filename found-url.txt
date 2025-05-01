@@ -516,3 +516,8 @@ https://osintteam.blog/forbidden-knowledge-banned-cybersecurity-reads-a4bdba77f2
 https://osintteam.blog/inside-the-50-000-office-cyberattack-no-one-saw-coming-bf305280bc9e?source=rss----2983bc435765---4
 https://osintteam.blog/how-a-smoothie-machine-bypassed-mfa-hijacked-payroll-and-infiltrated-google-workspace-4aedc20ff9c1?source=rss----2983bc435765---4
 https://osintteam.blog/how-a-rogue-alexa-update-cost-this-business-90-000-in-48-hours-1a22d02c3c23?source=rss----2983bc435765---4
+https://medium.com/@agarwaldaksh18/day-22-racing-against-logic-mastering-limit-overrun-race-conditions-4981cc66446e?source=rss------web_security-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-4-5a8b1d33e208?source=rss------portswigger-5
+https://medium.com/@Tanvir0x1/bypassing-email-verification-to-hijack-any-account-no-user-interaction-needed-58539b18f36a?source=rss------bug_bounty-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-4-5a8b1d33e208?source=rss------sql_injection-5
+https://medium.com/@agarwaldaksh18/day-22-racing-against-logic-mastering-limit-overrun-race-conditions-4981cc66446e?source=rss------cybersecurity-5
