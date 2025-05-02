@@ -633,3 +633,6 @@ https://medium.com/@adeldelsa45/sql-injection-memahami-mendemonstrasikan-dan-men
 https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------bug_bounty_writeup-5
 https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------cybersecurity-5
 https://medium.com/@rahulms_71093/privilege-escalation-to-super-admin-via-mass-assessment-in-a-multi-tenant-laravel-app-526d1309de73?source=rss------cybersecurity-5
+https://medium.com/@intelligentrose/war-zone-monitor-tracking-terrorist-groups-via-photo-analysis-4de7bce5e274?source=rss------osint-5
+https://medium.com/@intelligentrose/eyes-on-earth-the-geoint-osint-blog-dd74090eb9b1?source=rss------osint-5
+https://medium.com/@intelligentrose/eyes-on-earth-the-geoint-osint-blog-dd74090eb9b1?source=rss------intelligence-5
