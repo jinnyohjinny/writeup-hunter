@@ -611,3 +611,7 @@ https://medium.com/@antipovzzzzz/antigua-and-barbuda-and-osint-enhancing-digital
 https://medium.com/@antipovzzzzz/argentina-and-osint-exploring-public-intelligence-in-latin-americas-digital-frontier-cd3248b9f64a?source=rss------osint_tools-5
 https://medium.com/@antipovzzzzz/antigua-and-barbuda-and-osint-enhancing-digital-investigations-in-the-caribbean-4f8653136048?source=rss------osint_tools-5
 https://medium.com/@agunghanam/mengungkap-bahaya-sql-injection-studi-kasus-dan-teknik-mitigasi-31d206cbf736?source=rss------sql_injection-5
+https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5
+https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_hunting-5
+https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------hackerone-5
+https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_tips-5
