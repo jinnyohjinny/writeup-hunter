@@ -598,3 +598,11 @@ https://medium.com/@AhmadSopyan/xss-part-10-dom-xss-in-angularjs-expression-with
 https://medium.com/@AhmadSopyan/xss-part-10-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-82c6bb516124?source=rss------penetration_testing-5
 https://medium.com/@karthiksuresh2116/file-upload-vulnerabilities-conventional-threats-and-emerging-risks-in-2025-cf27eee4fb03?source=rss------cve-5
 https://medium.com/@AhmadSopyan/xss-part-10-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-82c6bb516124?source=rss------cybersecurity-5
+https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_writeup-5
+https://medium.com/@agarwaldaksh18/%EF%B8%8F-day-23-mastering-multi-endpoint-race-conditions-where-timing-breaks-logic-8200c4799e00?source=rss------web_security-5
+https://medium.com/@samrodriguezgalope/find-out-whos-behind-an-email-how-theharvester-helps-you-stay-safe-3f08b76eb8b0?source=rss------osint-5
+https://medium.com/@sakaerka/standardized-osint-repository-for-24-countries-now-on-github-a780afb57a6d?source=rss------open_source_intelligence-5
+https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------broken_access_control-5
+https://infosecwriteups.com/payloads-in-plain-sight-how-open-redirect-javascript-led-to-full-account-takeover-a7ae1c359679?source=rss------bug_bounty-5
+https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_tips-5
+https://medium.com/@iski/payloads-in-plain-sight-how-open-redirect-javascript-led-to-full-account-takeover-a7ae1c359679?source=rss------cybersecurity-5
