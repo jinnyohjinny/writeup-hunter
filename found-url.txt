@@ -606,3 +606,8 @@ https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical
 https://infosecwriteups.com/payloads-in-plain-sight-how-open-redirect-javascript-led-to-full-account-takeover-a7ae1c359679?source=rss------bug_bounty-5
 https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_tips-5
 https://medium.com/@iski/payloads-in-plain-sight-how-open-redirect-javascript-led-to-full-account-takeover-a7ae1c359679?source=rss------cybersecurity-5
+https://medium.com/@antipovzzzzz/argentina-and-osint-exploring-public-intelligence-in-latin-americas-digital-frontier-cd3248b9f64a?source=rss------osint-5
+https://medium.com/@antipovzzzzz/antigua-and-barbuda-and-osint-enhancing-digital-investigations-in-the-caribbean-4f8653136048?source=rss------osint-5
+https://medium.com/@antipovzzzzz/argentina-and-osint-exploring-public-intelligence-in-latin-americas-digital-frontier-cd3248b9f64a?source=rss------osint_tools-5
+https://medium.com/@antipovzzzzz/antigua-and-barbuda-and-osint-enhancing-digital-investigations-in-the-caribbean-4f8653136048?source=rss------osint_tools-5
+https://medium.com/@agunghanam/mengungkap-bahaya-sql-injection-studi-kasus-dan-teknik-mitigasi-31d206cbf736?source=rss------sql_injection-5
