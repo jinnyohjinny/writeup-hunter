@@ -615,3 +615,10 @@ https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty
 https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_hunting-5
 https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------hackerone-5
 https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_tips-5
+https://infosecwriteups.com/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77?source=rss------bug_bounty-5
+https://medium.com/@gnaitikg/my-first-paid-bug-bounty-a-hidden-gallery-a-lesson-in-misconfiguration-3efefe71c8cf?source=rss------bug_bounty-5
+https://medium.com/@_jkai/tryhackme-lookup-easy-31d120a17c1d?source=rss------penetration_testing-5
+https://medium.com/@shibaosint/trace-labs-search-party-an-osint-ctf-5c18a26f1368?source=rss------osint-5
+https://medium.com/@firiki.intel/-d00d2eb877e3?source=rss------osint-5
+https://medium.com/@_jkai/tryhackme-lookup-easy-31d120a17c1d?source=rss------web_application_security-5
+https://infosecwriteups.com/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77?source=rss------bug_bounty_tips-5
