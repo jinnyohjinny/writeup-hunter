@@ -622,3 +622,14 @@ https://medium.com/@shibaosint/trace-labs-search-party-an-osint-ctf-5c18a26f1368
 https://medium.com/@firiki.intel/-d00d2eb877e3?source=rss------osint-5
 https://medium.com/@_jkai/tryhackme-lookup-easy-31d120a17c1d?source=rss------web_application_security-5
 https://infosecwriteups.com/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77?source=rss------bug_bounty_tips-5
+https://medium.com/@rahulms_71093/privilege-escalation-to-super-admin-via-mass-assessment-in-a-multi-tenant-laravel-app-526d1309de73?source=rss------bug_bounty-5
+https://medium.com/@dharaniswaran.cs22/insecure-direct-object-reference-idor-in-a-government-portal-c83c0c638577?source=rss------bug_bounty-5
+https://medium.com/@adeldelsa45/sql-injection-memahami-mendemonstrasikan-dan-mencegah-kerentanan-berbahaya-dalam-aplikasi-web-4693239f852f?source=rss------web_security-5
+https://medium.com/@rahulms_71093/privilege-escalation-to-super-admin-via-mass-assessment-in-a-multi-tenant-laravel-app-526d1309de73?source=rss------penetration_testing-5
+https://medium.com/@dharaniswaran.cs22/insecure-direct-object-reference-idor-in-a-government-portal-c83c0c638577?source=rss------burp_suite-5
+https://medium.com/@dharaniswaran.cs22/insecure-direct-object-reference-idor-in-a-government-portal-c83c0c638577?source=rss------idor-5
+https://medium.com/@codeverse.dev.ai/why-firebase-authentication-should-be-your-go-to-solution-for-app-login-16b534d679f5?source=rss------api_security-5
+https://medium.com/@adeldelsa45/sql-injection-memahami-mendemonstrasikan-dan-mencegah-kerentanan-berbahaya-dalam-aplikasi-web-4693239f852f?source=rss------sql_injection-5
+https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------bug_bounty_writeup-5
+https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------cybersecurity-5
+https://medium.com/@rahulms_71093/privilege-escalation-to-super-admin-via-mass-assessment-in-a-multi-tenant-laravel-app-526d1309de73?source=rss------cybersecurity-5
