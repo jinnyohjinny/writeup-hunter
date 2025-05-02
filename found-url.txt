@@ -566,3 +566,9 @@ https://cloudmersive.medium.com/how-to-prevent-malicious-epub-file-uploads-in-ja
 https://krishna-cyber.medium.com/how-i-found-a-5k-bug-in-javascript-a-bug-bounty-story-dba44140efab?source=rss------osint-5
 https://krishna-cyber.medium.com/jsrecon-101-unearthing-hidden-secrets-in-javascript-files-for-bug-bounty-success-%EF%B8%8F-%EF%B8%8F-0ee75778da59?source=rss------osint-5
 https://medium.com/@musayyabsharif/access-control-and-vulnerability-exploitation-3f754930c852?source=rss------cybersecurity-5
+https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty-5
+https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5
+https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_hunting-5
+https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------hackerone-5
+https://georgia4.medium.com/how-to-reduce-digital-footprint-using-osint-techniques-8cc46365a25c?source=rss------osint-5
+https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_tips-5
