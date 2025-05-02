@@ -594,3 +594,7 @@ https://osintteam.blog/from-file-upload-to-credential-theft-my-1-000-bounty-jour
 https://infosecwriteups.com/the-secrets-behind-subdomain-takeovers-nobody-shares-ba6b5d7bf258?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/1000-passive-recon-strategy-youre-not-using-yet-164f5b1e6231?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/mercedes-benz-hacking-f36605954d5f?source=rss----7b722bfd1b8d---4
+https://medium.com/@AhmadSopyan/xss-part-10-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-82c6bb516124?source=rss------web_security-5
+https://medium.com/@AhmadSopyan/xss-part-10-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-82c6bb516124?source=rss------penetration_testing-5
+https://medium.com/@karthiksuresh2116/file-upload-vulnerabilities-conventional-threats-and-emerging-risks-in-2025-cf27eee4fb03?source=rss------cve-5
+https://medium.com/@AhmadSopyan/xss-part-10-dom-xss-in-angularjs-expression-with-angle-brackets-and-double-quotes-html-encoded-82c6bb516124?source=rss------cybersecurity-5
