@@ -572,3 +572,7 @@ https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bount
 https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------hackerone-5
 https://georgia4.medium.com/how-to-reduce-digital-footprint-using-osint-techniques-8cc46365a25c?source=rss------osint-5
 https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_tips-5
+https://medium.com/@Cyber-AppSec/4-800-ips-used-in-massive-recon-attack-targeting-git-configuration-files-what-you-need-to-know-bd7903377b21?source=rss------application_security-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-5-3329319c5518?source=rss------portswigger-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-5-3329319c5518?source=rss------sql_injection-5
+https://medium.com/@Cyber-AppSec/4-800-ips-used-in-massive-recon-attack-targeting-git-configuration-files-what-you-need-to-know-bd7903377b21?source=rss------cybersecurity-5
