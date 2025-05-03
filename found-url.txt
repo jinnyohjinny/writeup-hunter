@@ -691,3 +691,6 @@ https://medium.com/meetcyber/information-disclosure-vulnerability-writeup-hacker
 https://medium.com/meetcyber/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_tips-5
 https://systemweakness.com/bypassing-attack-surface-reduction-asr-rules-with-vba-macros-part-2-e2ad87cb5a38?source=rss------cybersecurity-5
 https://infosecwriteups.com/how-i-found-internal-dashboards-using-google-dorks-osint-5f2c9515fcd6?source=rss----7b722bfd1b8d---4
+https://medium.com/@dam_coffee/gralhix-exercise-015-fbb5d3e9d628?source=rss------osint-5
+https://medium.com/huawei-developers-tr/sql-injection-nedir-g%C3%BCvenli-backend-geli%C5%9Ftirmenin-temelleri-11418cafb906?source=rss------sql_injection-5
+https://medium.com/the-modern-backend/jwt-based-stateless-authentication-for-microservices-a-complete-guide-745f17c70b1e?source=rss------cybersecurity-5
