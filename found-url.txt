@@ -672,3 +672,13 @@ https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthor
 https://infosecwriteups.com/the-hunt-for-hidden-domains-a-beginners-guide-to-subfinder-and-10-subdomain-discovery-tools-for-ce10ade962bf?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthorized-data-ca1158d18190?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/how-to-hunt-for-p1-p2-blind-xss-87e027acd85b?source=rss------web_security-5
+https://medium.com/@srijbubbly/htb-base-machine-walkthrough-17675fb22d8b?source=rss------penetration_testing-5
+https://medium.com/@0xlevi/unmasking-a-telegram-job-scam-a-reconnaissance-case-study-%EF%B8%8F-%EF%B8%8F-57f2c7bb5eca?source=rss------recon-5
+https://medium.com/@DARK-MRX001/offsec-vmdak-walkthrough-9277b3856df5?source=rss------tryhackme-5
+https://medium.com/@marvinhuangzhicheng/no-sql-injection-writeup-acd7f2044376?source=rss------picoctf-5
+https://medium.com/@0xlevi/unmasking-a-telegram-job-scam-a-reconnaissance-case-study-%EF%B8%8F-%EF%B8%8F-57f2c7bb5eca?source=rss------osint-5
+https://osintteam.blog/leveraging-the-public-domain-open-source-threat-intelligence-osti-for-proactive-cybersecurity-5fbf5c04d45c?source=rss------open_source_intelligence-5
+https://medium.com/@srijbubbly/htb-base-machine-walkthrough-17675fb22d8b?source=rss------ctf-5
+https://medium.com/@marvinhuangzhicheng/no-sql-injection-writeup-acd7f2044376?source=rss------cybersecurity-5
+https://medium.com/@srijbubbly/htb-base-machine-walkthrough-17675fb22d8b?source=rss------cybersecurity-5
