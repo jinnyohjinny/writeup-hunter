@@ -721,3 +721,10 @@ https://medium.com/@regan_temudo/wordpress-user-enumeration-via-author-sitemap-x
 https://pentest-testing-corp.medium.com/prevent-directory-traversal-in-symfony-securely-60fadb5ae22d?source=rss------penetration_testing-5
 https://pentest-testing-corp.medium.com/prevent-directory-traversal-in-symfony-securely-60fadb5ae22d?source=rss------vulnerability-5
 https://medium.com/@thespycollection/spy-news-2025-week-18-647009bdcb20?source=rss------osint-5
+https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0?source=rss------bug_bounty-5
+https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0?source=rss------hackerone-5
+https://medium.com/eyes-on-ukraine/the-telegram-wrap-dmr-radios-the-ew-handbook-positions-vacant-14-86bb377d4bcc?source=rss------osint-5
+https://medium.com/@web3tracker_73126/unlock-the-world-of-crypto-how-bitvests-can-help-you-profit-from-digital-assets-without-being-a-4c03432d9c35?source=rss------cryptography-5
+https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0?source=rss------bugcrowd-5
+https://medium.com/@erebu66/privilege-escalation-techniques-in-linux-operating-systems-2b31fb56960c?source=rss------cybersecurity-5
+https://osintph.medium.com/staying-informed-on-cybersecurity-a-simple-guide-that-everybody-can-use-434aa9f9128a?source=rss------cybersecurity-5
