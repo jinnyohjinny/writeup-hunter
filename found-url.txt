@@ -710,3 +710,9 @@ https://osintteam.blog/%EF%B8%8F-exploring-advanced-xss-scanning-tools-a-guide-t
 https://osintteam.blog/stuck-at-the-login-screen-in-kali-linux-heres-the-fix-you-ve-been-searching-for-b90877bce6f3?source=rss----2983bc435765---4
 https://osintteam.blog/505-bounty-denial-of-service-vulnerability-bd6daef5fe8a?source=rss----2983bc435765---4
 https://osintteam.blog/implementing-pam-to-secure-your-most-sensitive-accounts-ff0973ca1792?source=rss----2983bc435765---4
+https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty-5
+https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty_writeup-5
+https://codeverse-dev-ai.medium.com/why-firebase-authentication-should-be-your-go-to-solution-for-app-login-16b534d679f5?source=rss------api_security-5
+https://medium.com/@anggafajar145/celah-di-balik-form-login-pengenalan-sql-injection-untuk-pemula-b4a2ff7c6e6f?source=rss------sql_injection-5
+https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty_tips-5
+https://pentest-testing-corp.medium.com/prevent-directory-traversal-in-symfony-securely-60fadb5ae22d?source=rss------cybersecurity-5
