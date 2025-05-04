@@ -756,3 +756,9 @@ https://medium.com/@intelligentrose/monitoring-pakistans-submarine-fleet-in-the-
 https://medium.com/@musayyabsharif/path-traversal-techniques-26ae250a3907?source=rss------path_traversal-5
 https://medium.com/legionhunters/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_tips-5
 https://medium.com/@musayyabsharif/path-traversal-techniques-26ae250a3907?source=rss------cybersecurity-5
+https://medium.com/cyber-collective/performing-sql-injection-with-burp-suite-and-sqlmap-on-dvwa-c3cabb00c287?source=rss------penetration_testing-5
+https://medium.com/@vhteren2004/ssti-explained-with-a-ctf-example-ssti1-0f4bbb171413?source=rss------ssti-5
+https://medium.com/@vhteren2004/ssti-explained-with-a-ctf-example-ssti1-0f4bbb171413?source=rss------ctf-5
+https://medium.com/cyber-collective/performing-sql-injection-with-burp-suite-and-sqlmap-on-dvwa-c3cabb00c287?source=rss------sql_injection-5
+https://medium.com/cyber-collective/performing-sql-injection-with-burp-suite-and-sqlmap-on-dvwa-c3cabb00c287?source=rss------cybersecurity-5
+https://medium.com/@alihassankhan5560/how-i-found-an-exposed-debug-pprof-endpoint-on-a-google-subdomain-and-earned-1337-85a1d92a0bcd?source=rss------cybersecurity-5
