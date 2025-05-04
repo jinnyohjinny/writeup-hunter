@@ -749,3 +749,10 @@ https://medium.com/@natarajanck2/understanding-server-side-template-injection-ss
 https://medium.com/@marvinhuangzhicheng/java-code-analysis-writeup-8910da2f13bc?source=rss------picoctf-5
 https://osint4fun.medium.com/soluci%C3%B3n-a-los-retos-del-ctf-de-osintcombine-que-duro-un-mes-8eab85ff2771?source=rss------osint-5
 https://medium.com/@dam_coffee/gralhix-exercise-016-bb160065f74b?source=rss------osint-5
+https://medium.com/legionhunters/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_writeup-5
+https://medium.com/@musayyabsharif/path-traversal-techniques-26ae250a3907?source=rss------web_security-5
+https://medium.com/legionhunters/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------hackerone-5
+https://medium.com/@intelligentrose/monitoring-pakistans-submarine-fleet-in-the-modern-war-zone-107b069ae602?source=rss------osint-5
+https://medium.com/@musayyabsharif/path-traversal-techniques-26ae250a3907?source=rss------path_traversal-5
+https://medium.com/legionhunters/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_tips-5
+https://medium.com/@musayyabsharif/path-traversal-techniques-26ae250a3907?source=rss------cybersecurity-5
