@@ -728,3 +728,10 @@ https://medium.com/@web3tracker_73126/unlock-the-world-of-crypto-how-bitvests-ca
 https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0?source=rss------bugcrowd-5
 https://medium.com/@erebu66/privilege-escalation-techniques-in-linux-operating-systems-2b31fb56960c?source=rss------cybersecurity-5
 https://osintph.medium.com/staying-informed-on-cybersecurity-a-simple-guide-that-everybody-can-use-434aa9f9128a?source=rss------cybersecurity-5
+https://biswajeetray7.medium.com/beautiful-open-redirect-on-google-com-752c98a80b7d?source=rss------bugbounty_writeup-5
+https://biswajeetray7.medium.com/beautiful-open-redirect-on-google-com-752c98a80b7d?source=rss------vulnerability-5
+https://medium.com/@ibederov_en/all-about-geoint-0e374a3f68a2?source=rss------osint-5
+https://biswajeetray7.medium.com/beautiful-open-redirect-on-google-com-752c98a80b7d?source=rss------open_redirect-5
+https://biswajeetray7.medium.com/beautiful-open-redirect-on-google-com-752c98a80b7d?source=rss------bug_bounty-5
+https://medium.com/@imashanilupul/understanding-sql-injection-what-it-is-and-how-to-prevent-it-d332e2038ae4?source=rss------sql_injection-5
+https://medium.com/@imashanilupul/understanding-sql-injection-what-it-is-and-how-to-prevent-it-d332e2038ae4?source=rss------cybersecurity-5
