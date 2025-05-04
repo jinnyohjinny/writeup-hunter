@@ -747,3 +747,5 @@ https://medium.com/@sahilkunpc/common-web-attacks-and-detection-techniques-7eaa7
 https://medium.com/@AhmadSopyan/xss-part-11-reflected-dom-xss-eb0c5b410075?source=rss------cybersecurity-5
 https://medium.com/@natarajanck2/understanding-server-side-template-injection-ssti-1cb0465dd46d?source=rss------bug_bounty-5
 https://medium.com/@marvinhuangzhicheng/java-code-analysis-writeup-8910da2f13bc?source=rss------picoctf-5
+https://osint4fun.medium.com/soluci%C3%B3n-a-los-retos-del-ctf-de-osintcombine-que-duro-un-mes-8eab85ff2771?source=rss------osint-5
+https://medium.com/@dam_coffee/gralhix-exercise-016-bb160065f74b?source=rss------osint-5
