@@ -826,3 +826,5 @@ https://lasarindiego.medium.com/tryhackme-search-skills-room-explained-e4c5114ea
 https://ehteshamulhaq198.medium.com/subdomain-takeover-my-450-win-how-you-can-do-it-too-3337ca0513b6?source=rss------writeup-5
 https://ehteshamulhaq198.medium.com/subdomain-takeover-my-450-win-how-you-can-do-it-too-3337ca0513b6?source=rss------bug_bounty_tips-5
 https://lasarindiego.medium.com/tryhackme-search-skills-room-explained-e4c5114eadf9?source=rss------cybersecurity-5
+https://medium.com/@nastyanazarova89/recon-comprehensive-guide-to-earning-rewards-658b8ca62506?source=rss------recon-5
+https://medium.com/@kal118641/supercharge-your-int-os-intos-experience-f97b2acc63fc?source=rss------osint-5
