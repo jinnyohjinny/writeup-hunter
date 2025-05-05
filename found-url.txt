@@ -782,3 +782,16 @@ https://medium.com/@vivekbhatt2002/google-dorking-how-to-uncover-hidden-vulnerab
 https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8?source=rss------rce-5
 https://medium.com/legionhunters/subdomain-dork-recon-via-3rd-party-54ea05b59a62?source=rss------bug_bounty_tips-5
 https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8?source=rss------cybersecurity-5
+https://hexaphp.medium.com/account-takeover-via-idor-in-password-reset-leading-to-exposure-94ddab4626aa?source=rss------bug_bounty-5
+https://hexaphp.medium.com/account-takeover-via-idor-in-password-reset-leading-to-exposure-94ddab4626aa?source=rss------bugbounty_writeup-5
+https://medium.com/@mehmetbaskir/owasp-testing-guide-otg-info-001-9ea7a3a00670?source=rss------web_security-5
+https://medium.com/@nastyanazarova89/recon-solana-eth-passive-income-strategies-for-2025-da758a66f92f?source=rss------recon-5
+https://r4nd0msys1.medium.com/cap-walkthrough-hackthebox-0e53a7bd4ce3?source=rss------hackthebox_writeup-5
+https://medium.com/@mrlrnt/retour-sur-le-ctf-mrkodobay-2025-4f6226b85c2f?source=rss------osint-5
+https://medium.com/@infoziant/cve-2025-32817-critical-sonicwall-privilege-escalation-flaw-why-businesses-need-proactive-bb81f032128d?source=rss------cve-5
+https://medium.com/@arshadhossain.oh/detecting-sql-injection-attacks-letsdefend-f61d7c631dc8?source=rss------sql_injection-5
+https://r4nd0msys1.medium.com/cap-walkthrough-hackthebox-0e53a7bd4ce3?source=rss------cybersecurity-5
+https://medium.com/@arshadhossain.oh/detecting-sql-injection-attacks-letsdefend-f61d7c631dc8?source=rss------cybersecurity-5
+https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/stored-xss-led-to-oauth-app-credential-theft-and-info-disclosure-85545fca3948?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0?source=rss----7b722bfd1b8d---4
