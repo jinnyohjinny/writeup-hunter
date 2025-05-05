@@ -795,3 +795,9 @@ https://medium.com/@arshadhossain.oh/detecting-sql-injection-attacks-letsdefend-
 https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/stored-xss-led-to-oauth-app-credential-theft-and-info-disclosure-85545fca3948?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0?source=rss----7b722bfd1b8d---4
+https://medium.com/@antipovzzzzz/afghanistan-and-osint-navigating-intelligence-in-a-challenging-digital-terrain-6b49e5cc3057?source=rss------osint-5
+https://medium.com/@antipovzzzzz/armenia-and-osint-unlocking-digital-intelligence-in-the-caucasus-c773e88a11db?source=rss------osint-5
+https://medium.com/@bl0ss0mx5/tsukuctf-2025-writeups-99effef27a1f?source=rss------osint-5
+https://medium.com/@antipovzzzzz/afghanistan-and-osint-navigating-intelligence-in-a-challenging-digital-terrain-6b49e5cc3057?source=rss------osint_tools-5
+https://medium.com/@antipovzzzzz/armenia-and-osint-unlocking-digital-intelligence-in-the-caucasus-c773e88a11db?source=rss------osint_tools-5
+https://brkkcygt.medium.com/domain-iii-certified-in-cybersecurity-cc-certification-exam-keywords-daf9c3b1a5e4?source=rss------cybersecurity-5
