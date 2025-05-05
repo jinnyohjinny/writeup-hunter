@@ -771,3 +771,7 @@ https://medium.com/@samrodriguezgalope/how-a-simple-phone-number-led-to-a-shocki
 https://medium.com/@kipisa8811/the-complete-guide-to-int-os-intos-rewards-2e29b57fe536?source=rss------osint-5
 https://medium.com/ways-of-earning/using-two-factor-authentication-2fa-to-stay-safe-c6cb7e4a6b07?source=rss------encryption-5
 https://medium.com/@samrodriguezgalope/how-a-simple-phone-number-led-to-a-shocking-discovery-using-spiderfoot-c292f6e2e53d?source=rss------cybersecurity-5
+https://www.youtube.com/watch?v=9_aJN3-mOFw
+https://sahayagodson.medium.com/securing-your-website-with-content-security-policy-csp-nonce-vs-hash-36fa6ea913a0?source=rss------application_security-5
+https://medium.com/@benjaminmillerdev/benjamin-millers-spin-on-privilege-escalation-in-linux-systems-f126f954817a?source=rss------penetration_testing-5
+https://sahayagodson.medium.com/securing-your-website-with-content-security-policy-csp-nonce-vs-hash-36fa6ea913a0?source=rss------cybersecurity-5
