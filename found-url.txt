@@ -814,3 +814,15 @@ https://medium.com/@samilalpay1999/sql-injection-portswigger-lab-2-223630d57d15?
 https://medium.com/@samilalpay1999/sql-injecton-portswigger-lab-1-70b9c6c37b3f?source=rss------portswigger-5
 https://medium.com/@samilalpay1999/sql-injection-portswigger-lab-2-223630d57d15?source=rss------sql_injection-5
 https://medium.com/@samilalpay1999/sql-injecton-portswigger-lab-1-70b9c6c37b3f?source=rss------sql_injection-5
+https://medium.com/@natarajanck2/cross-site-request-forgery-csrf-made-easy-a-beginners-perspective-037b4ba6d62a?source=rss------bug_bounty-5
+https://medium.com/@Itachi0xf/une-xss-simple-sur-la-page-de-login-cve-2024-48410-65435f4a0f84?source=rss------bug_bounty-5
+https://ehteshamulhaq198.medium.com/subdomain-takeover-my-450-win-how-you-can-do-it-too-3337ca0513b6?source=rss------bug_bounty-5
+https://ehteshamulhaq198.medium.com/subdomain-takeover-my-450-win-how-you-can-do-it-too-3337ca0513b6?source=rss------penetration_testing-5
+https://lasarindiego.medium.com/tryhackme-search-skills-room-explained-e4c5114eadf9?source=rss------tryhackme-5
+https://lasarindiego.medium.com/tryhackme-search-skills-room-explained-e4c5114eadf9?source=rss------osint-5
+https://medium.com/@Itachi0xf/une-xss-simple-sur-la-page-de-login-cve-2024-48410-65435f4a0f84?source=rss------cve-5
+https://lasarindiego.medium.com/tryhackme-search-skills-room-explained-e4c5114eadf9?source=rss------ctf-5
+https://lasarindiego.medium.com/tryhackme-search-skills-room-explained-e4c5114eadf9?source=rss------writeup-5
+https://ehteshamulhaq198.medium.com/subdomain-takeover-my-450-win-how-you-can-do-it-too-3337ca0513b6?source=rss------writeup-5
+https://ehteshamulhaq198.medium.com/subdomain-takeover-my-450-win-how-you-can-do-it-too-3337ca0513b6?source=rss------bug_bounty_tips-5
+https://lasarindiego.medium.com/tryhackme-search-skills-room-explained-e4c5114eadf9?source=rss------cybersecurity-5
