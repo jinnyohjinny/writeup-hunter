@@ -766,3 +766,8 @@ https://medium.com/@loyalonlytoday/sigint-signals-intelligence-tools-8968cf12b84
 https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-6-530fa102f14a?source=rss------portswigger-5
 https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-6-530fa102f14a?source=rss------sql_injection-5
 https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-6-530fa102f14a?source=rss------cybersecurity-5
+https://medium.com/@snyde21/osint-related-articles-20250505-1b4c34ea4848?source=rss------osint-5
+https://medium.com/@samrodriguezgalope/how-a-simple-phone-number-led-to-a-shocking-discovery-using-spiderfoot-c292f6e2e53d?source=rss------osint-5
+https://medium.com/@kipisa8811/the-complete-guide-to-int-os-intos-rewards-2e29b57fe536?source=rss------osint-5
+https://medium.com/ways-of-earning/using-two-factor-authentication-2fa-to-stay-safe-c6cb7e4a6b07?source=rss------encryption-5
+https://medium.com/@samrodriguezgalope/how-a-simple-phone-number-led-to-a-shocking-discovery-using-spiderfoot-c292f6e2e53d?source=rss------cybersecurity-5
