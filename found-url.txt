@@ -762,3 +762,7 @@ https://medium.com/@vhteren2004/ssti-explained-with-a-ctf-example-ssti1-0f4bbb17
 https://medium.com/cyber-collective/performing-sql-injection-with-burp-suite-and-sqlmap-on-dvwa-c3cabb00c287?source=rss------sql_injection-5
 https://medium.com/cyber-collective/performing-sql-injection-with-burp-suite-and-sqlmap-on-dvwa-c3cabb00c287?source=rss------cybersecurity-5
 https://medium.com/@alihassankhan5560/how-i-found-an-exposed-debug-pprof-endpoint-on-a-google-subdomain-and-earned-1337-85a1d92a0bcd?source=rss------cybersecurity-5
+https://medium.com/@loyalonlytoday/sigint-signals-intelligence-tools-8968cf12b840?source=rss------osint-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-6-530fa102f14a?source=rss------portswigger-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-6-530fa102f14a?source=rss------sql_injection-5
+https://medium.com/@rootchisco/my-portswigger-journey-exploring-sql-vulnerabilities-using-burp-suite-pt-6-530fa102f14a?source=rss------cybersecurity-5
