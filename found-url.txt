@@ -803,3 +803,14 @@ https://medium.com/@antipovzzzzz/armenia-and-osint-unlocking-digital-intelligenc
 https://brkkcygt.medium.com/domain-iii-certified-in-cybersecurity-cc-certification-exam-keywords-daf9c3b1a5e4?source=rss------cybersecurity-5
 https://medium.com/@Dedrknex/information-disclosure-vulnerability-a-simple-recon-leads-to-user-data-exposure-0e13acaa1945?source=rss------bugbounty_writeup-5
 https://medium.com/@nastyanazarova89/maximize-recon-solana-for-passive-income-success-c589ad2a64f7?source=rss------recon-5
+https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty-5
+https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5
+https://medium.com/@hamzasufian2014/jwt-authentication-best-practices-a-guide-for-secure-web-applications-798b7a36f023?source=rss------web_security-5
+https://medium.com/@cihananthony/spellbinding-the-network-replicating-thewizards-apt-style-ipv6-attack-for-red-team-operations-d1a2edca4c72?source=rss------penetration_testing-5
+https://the-product-man.medium.com/bellingcat-chalcreating-community-ad40831cdcdf?source=rss------osint-5
+https://the-product-man.medium.com/bellingcat-challenge-training-time-57c0aadc6997?source=rss------osint-5
+https://the-product-man.medium.com/bellingcat-challenge-fresh-faced-34bb7b43ff6c?source=rss------osint-5
+https://medium.com/@samilalpay1999/sql-injection-portswigger-lab-2-223630d57d15?source=rss------portswigger-5
+https://medium.com/@samilalpay1999/sql-injecton-portswigger-lab-1-70b9c6c37b3f?source=rss------portswigger-5
+https://medium.com/@samilalpay1999/sql-injection-portswigger-lab-2-223630d57d15?source=rss------sql_injection-5
+https://medium.com/@samilalpay1999/sql-injecton-portswigger-lab-1-70b9c6c37b3f?source=rss------sql_injection-5
