@@ -855,3 +855,4 @@ https://osintteam.blog/back-in-time-deeper-into-the-digital-past-solving-belling
 https://osintteam.blog/back-in-time-deeper-into-the-digital-past-solving-bellingcats-challenges-1-2-by-sofia-santos-b01298ecd4a3?source=rss------intelligence-5
 https://medium.com/@sinha.k/so-what-is-openid-connect-oidc-5a92c25792bb?source=rss------cybersecurity-5
 https://medium.com/@paritoshblogs/open-source-intelligence-osint-for-threat-enrichment-a-deep-dive-with-maltego-spiderfoot-9241fadbf464?source=rss------cybersecurity-5
+https://iaraoz.medium.com/hacking-apis-server-side-parameter-pollution-101-97a155c85029?source=rss------appsec-5
