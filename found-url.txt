@@ -900,3 +900,9 @@ https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-persona
 https://medium.com/@andrianlusmana794/implementasi-eksperimen-sql-injection-sebagai-studi-kasus-keamanan-web-370867991f7e?source=rss------sql_injection-5
 https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty_tips-5
 https://medium.com/h7w/tryhackme-evading-logging-and-monitoring-writeup-bd9dcaf9a20f?source=rss------cybersecurity-5
+https://medium.com/legionhunters/fofa-dorking-for-bug-hunters-a35c80bbab6e?source=rss------bug_bounty-5
+https://medium.com/legionhunters/fofa-dorking-for-bug-hunters-a35c80bbab6e?source=rss------osint-5
+https://medium.com/@reuvenel5/wordpress-security-posture-more-fragile-than-you-think-15497115b435?source=rss------bug_bounty-5
+https://medium.com/@S1L3NT67/whats-your-name-tryhackme-detailed-writeup-efc28f018aac?source=rss------xss_vulnerability-5
+https://medium.com/legionhunters/fofa-dorking-for-bug-hunters-a35c80bbab6e?source=rss------bug_bounty_tips-5
+https://medium.com/@reuvenel5/wordpress-security-posture-more-fragile-than-you-think-15497115b435?source=rss------cybersecurity-5
