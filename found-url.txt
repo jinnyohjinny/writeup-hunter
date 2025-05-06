@@ -873,3 +873,9 @@ https://pentest-testing-corp.medium.com/prevent-file-inclusion-vulnerability-in-
 https://infosecwriteups.com/beyond-alert-boxes-exploiting-dom-xss-for-full-account-takeover-094e1507d206?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/2000-bounty-stored-xss-in-gitlab-c71b2d7a3c21?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/how-hackers-exploit-cors-misconfigurations-35a6c5d7e0c8?source=rss----7b722bfd1b8d---4
+https://kariiem.medium.com/oauth-integration-hijack-via-predictable-state-parameter-facdae83e6b6?source=rss------bug_bounty-5
+https://kariiem.medium.com/oauth-integration-hijack-via-predictable-state-parameter-facdae83e6b6?source=rss------penetration_testing-5
+https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-by-testing-multiple-roles-heres-what-i-learned-ed9c7b7f8b92?source=rss------broken_access_control-5
+https://kariiem.medium.com/oauth-integration-hijack-via-predictable-state-parameter-facdae83e6b6?source=rss------csrf-5
+https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-by-testing-multiple-roles-heres-what-i-learned-ed9c7b7f8b92?source=rss------bug_bounty_writeup-5
+https://medium.com/@solo-recon/security-is-a-ux-problem-2a9a244b9de4?source=rss------cybersecurity-5
