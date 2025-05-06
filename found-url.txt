@@ -906,3 +906,13 @@ https://medium.com/@reuvenel5/wordpress-security-posture-more-fragile-than-you-t
 https://medium.com/@S1L3NT67/whats-your-name-tryhackme-detailed-writeup-efc28f018aac?source=rss------xss_vulnerability-5
 https://medium.com/legionhunters/fofa-dorking-for-bug-hunters-a35c80bbab6e?source=rss------bug_bounty_tips-5
 https://medium.com/@reuvenel5/wordpress-security-posture-more-fragile-than-you-think-15497115b435?source=rss------cybersecurity-5
+https://medium.com/@arunodayvmtiwari1102/ctf-with-csrf-involving-referrer-header-186041e6b6b5?source=rss------bug_bounty_writeup-5
+https://medium.com/@reuvenel5/wordpress-security-posture-more-fragile-than-you-think-15497115b435?source=rss------application_security-5
+https://medium.com/@ivanlobaton/%EF%B8%8F-%EF%B8%8F-friday-overtime-tryhackme-615ddc199c2c?source=rss------osint-5
+https://medium.com/@arunodayvmtiwari1102/csrf-with-broken-referrer-validation-ead2c9dfc103?source=rss------portswigger-5
+https://medium.com/@arunodayvmtiwari1102/ctf-with-csrf-involving-referrer-header-186041e6b6b5?source=rss------csrf-5
+https://medium.com/@arunodayvmtiwari1102/csrf-with-broken-referrer-validation-ead2c9dfc103?source=rss------csrf-5
+https://medium.com/@jvlaimer/tryhackme-hammer-write-up-ab347efce261?source=rss------ctf-5
+https://medium.com/@jvlaimer/tryhackme-hammer-write-up-ab347efce261?source=rss------writeup-5
+https://medium.com/@112piyushsingh/%EF%B8%8F-fuzzing-for-hackers-write-your-own-fuzzer-in-python-get-started-with-afl-d375baf243d2?source=rss------cybersecurity-5
+https://medium.com/@112piyushsingh/beyond-the-buzz-advanced-fuzzing-techniques-and-real-world-impact-5cf5e8fc275a?source=rss------cybersecurity-5
