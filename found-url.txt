@@ -888,3 +888,15 @@ https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-
 https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------cybersecurity-5
 https://infosecwriteups.com/a-must-have-tool-for-bug-hunters-find-open-redirect-vulnerabilities-on-linux-21ad0c7d148e?source=rss------bug_bounty-5
 https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------bugcrowd-5
+https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty-5
+https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty_writeup-5
+https://medium.com/h7w/tryhackme-evading-logging-and-monitoring-writeup-bd9dcaf9a20f?source=rss------tryhackme-5
+https://medium.com/@paragbhosale9440/breaking-into-windows-domains-via-adcs-misconfigurations-htb-authority-e93f69c75281?source=rss------hackthebox_writeup-5
+https://medium.com/@antipovzzzzz/bangladesh-and-osint-harnessing-public-data-in-south-asias-digital-boom-b3b16a5f6874?source=rss------osint-5
+https://medium.com/@antipovzzzzz/the-bahamas-and-osint-digital-intelligence-in-an-island-nation-63729a8b218f?source=rss------osint-5
+https://medium.com/@antipovzzzzz/bangladesh-and-osint-harnessing-public-data-in-south-asias-digital-boom-b3b16a5f6874?source=rss------osint_tools-5
+https://medium.com/@antipovzzzzz/the-bahamas-and-osint-digital-intelligence-in-an-island-nation-63729a8b218f?source=rss------osint_tools-5
+https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------idor-5
+https://medium.com/@andrianlusmana794/implementasi-eksperimen-sql-injection-sebagai-studi-kasus-keamanan-web-370867991f7e?source=rss------sql_injection-5
+https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty_tips-5
+https://medium.com/h7w/tryhackme-evading-logging-and-monitoring-writeup-bd9dcaf9a20f?source=rss------cybersecurity-5
