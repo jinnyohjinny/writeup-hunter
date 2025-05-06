@@ -856,3 +856,6 @@ https://osintteam.blog/back-in-time-deeper-into-the-digital-past-solving-belling
 https://medium.com/@sinha.k/so-what-is-openid-connect-oidc-5a92c25792bb?source=rss------cybersecurity-5
 https://medium.com/@paritoshblogs/open-source-intelligence-osint-for-threat-enrichment-a-deep-dive-with-maltego-spiderfoot-9241fadbf464?source=rss------cybersecurity-5
 https://iaraoz.medium.com/hacking-apis-server-side-parameter-pollution-101-97a155c85029?source=rss------appsec-5
+https://medium.com/@sai9t/frida-detection-bypass-how-your-error-messages-help-hackers-6b492ec655ef?source=rss------penetration_testing-5
+https://osintteam.blog/understanding-cryptography-how-your-crypto-wallets-apps-and-nfts-stay-secure-97cccdd8bafe?source=rss------cryptography-5
+https://medium.com/@anandrishav2228/firewall-bypass-new-technique-2048f8e391ad?source=rss------cybersecurity-5
