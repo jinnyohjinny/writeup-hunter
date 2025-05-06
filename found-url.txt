@@ -879,3 +879,10 @@ https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-
 https://kariiem.medium.com/oauth-integration-hijack-via-predictable-state-parameter-facdae83e6b6?source=rss------csrf-5
 https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-by-testing-multiple-roles-heres-what-i-learned-ed9c7b7f8b92?source=rss------bug_bounty_writeup-5
 https://medium.com/@solo-recon/security-is-a-ux-problem-2a9a244b9de4?source=rss------cybersecurity-5
+https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------bug_bounty-5
+https://medium.com/@anton.paikse/media-monitoring-as-a-must-mave-add-on-for-modern-intelligence-analysis-dfe8f8e77ab4?source=rss------osint-5
+https://medium.com/@dev-angelist/authentication-bypass-via-information-disclosure-lab-walkthrough-%EF%B8%8F-93e7076cfd14?source=rss------portswigger-5
+https://medium.com/@dev-angelist/authentication-bypass-via-information-disclosure-lab-walkthrough-%EF%B8%8F-93e7076cfd14?source=rss------burp_suite-5
+https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------bug_bounty_writeup-5
+https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-by-testing-multiple-roles-heres-what-i-learned-ed9c7b7f8b92?source=rss------bug_bounty_tips-5
+https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------cybersecurity-5
