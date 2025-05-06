@@ -846,3 +846,12 @@ https://osintteam.blog/privilege-escalation-vulnerabilities-explained-with-examp
 https://osintteam.blog/500-bounty-for-reflected-xss-on-hackerone-29c13793bc91?source=rss----2983bc435765---4
 https://osintteam.blog/how-to-implement-a-siem-solution-in-your-organization-a-practical-guide-5b59394e3e48?source=rss----2983bc435765---4
 https://osintteam.blog/youre-not-using-kubectl-apply-to-its-full-power-here-s-what-you-re-missing-53baa57360bb?source=rss----2983bc435765---4
+https://medium.com/@rarefiedco/fictional-hack-series-exploiting-an-outdated-wordpress-plugin-a5ee1f3e83f8?source=rss------penetration_testing-5
+https://medium.com/@paulasys/how-uber-was-compromised-in-2022-a-technical-analysis-of-authentication-and-session-control-fe359502e8b8?source=rss------vulnerability-5
+https://medium.com/@paritoshblogs/open-source-intelligence-osint-for-threat-enrichment-a-deep-dive-with-maltego-spiderfoot-9241fadbf464?source=rss------osint-5
+https://osintteam.blog/back-in-time-deeper-into-the-digital-past-solving-bellingcats-challenges-3-5-by-sofia-santos-f8b8c7218347?source=rss------osint-5
+https://osintteam.blog/back-in-time-deeper-into-the-digital-past-solving-bellingcats-challenges-1-2-by-sofia-santos-b01298ecd4a3?source=rss------osint-5
+https://osintteam.blog/back-in-time-deeper-into-the-digital-past-solving-bellingcats-challenges-3-5-by-sofia-santos-f8b8c7218347?source=rss------intelligence-5
+https://osintteam.blog/back-in-time-deeper-into-the-digital-past-solving-bellingcats-challenges-1-2-by-sofia-santos-b01298ecd4a3?source=rss------intelligence-5
+https://medium.com/@sinha.k/so-what-is-openid-connect-oidc-5a92c25792bb?source=rss------cybersecurity-5
+https://medium.com/@paritoshblogs/open-source-intelligence-osint-for-threat-enrichment-a-deep-dive-with-maltego-spiderfoot-9241fadbf464?source=rss------cybersecurity-5
