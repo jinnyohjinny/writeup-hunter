@@ -949,3 +949,5 @@ https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vuln
 https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_tips-5
 https://medium.com/@iamshafayat/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------cybersecurity-5
 https://medium.com/@fatimahasan022/detecting-sql-injection-attacks-f12324774e0d?source=rss------cybersecurity-5
+https://danioshi.medium.com/enhancing-your-node-js-restful-api-security-with-jwt-refresh-tokens-4650c10e347d?source=rss------api_security-5
+https://ypifany.medium.com/rmf-is-being-dismantled-what-do-we-do-now-b743bd4df71a?source=rss------cybersecurity-5
