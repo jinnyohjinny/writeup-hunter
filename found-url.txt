@@ -941,3 +941,11 @@ https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-technique
 https://medium.com/@tcker/introduction-to-osint-course-capstone-walkthrough-e8fa1244828f?source=rss------open_source_intelligence-5
 https://medium.com/@tcker/introduction-to-osint-course-capstone-walkthrough-e8fa1244828f?source=rss------osint_tools-5
 https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------bug_bounty_tips-5
+https://medium.com/@iamshafayat/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty-5
+https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_writeup-5
+https://medium.com/@prakrititimilsina56/wazuh-100-detecting-sql-injection-and-xss-attacks-using-dvwa-wazuh-siem-18b2b40738ef?source=rss------sqli-5
+https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------open_redirect-5
+https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty-5
+https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_tips-5
+https://medium.com/@iamshafayat/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------cybersecurity-5
+https://medium.com/@fatimahasan022/detecting-sql-injection-attacks-f12324774e0d?source=rss------cybersecurity-5
