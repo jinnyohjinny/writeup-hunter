@@ -932,3 +932,12 @@ https://infosecwriteups.com/2fa-bypass-a-case-of-insecure-implementation-8b9e44f
 https://infosecwriteups.com/dom-inated-how-a-tiny-js-sink-turned-into-critical-xss-a9a1dbe97df2?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/query-confusion-how-http-parameter-pollution-made-the-app-spill-secrets-55b09a1bc98b?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/2-900-bounty-public-s3-bucket-exposure-in-shopify-05b14bbf6dad?source=rss----7b722bfd1b8d---4
+https://www.youtube.com/watch?v=YPx5eg5MTIY
+https://medium.com/legionhunters/js-recon-to-html-injection-4cdca8fd88cf?source=rss------bug_bounty-5
+https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------bug_bounty-5
+https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------bug_bounty_writeup-5
+https://medium.com/@.m4ks/bypassing-file-upload-restrictions-a-practical-guide-to-finding-and-exploiting-vulnerabilities-b20e831c4a32?source=rss------penetration_testing-5
+https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------recon-5
+https://medium.com/@tcker/introduction-to-osint-course-capstone-walkthrough-e8fa1244828f?source=rss------open_source_intelligence-5
+https://medium.com/@tcker/introduction-to-osint-course-capstone-walkthrough-e8fa1244828f?source=rss------osint_tools-5
+https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------bug_bounty_tips-5
