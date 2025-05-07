@@ -920,3 +920,7 @@ https://medium.com/@kal118641/claiming-int-os-intos-tokens-unlocking-rewards-has
 https://medium.com/@fl391xl21/how-to-claim-recon-e61e953f96d4?source=rss------recon-5
 https://medium.com/@samrodriguezgalope/is-someone-pretending-to-be-you-expose-them-with-deep-username-search-4f7ea19c70c3?source=rss------osint-5
 https://medium.com/@IanStrome/learn-osint-by-tracking-down-information-for-your-benefit-0734ae6440dc?source=rss------osint-5
+https://medium.com/@snyde21/osint-related-articles-20250507-a0796c0f7792?source=rss------osint-5
+https://medium.com/@sekuD/htb-cypher-experience-takeaways-0c4f51d17ab1?source=rss------writeup-5
+https://medium.com/@sinha.k/backchannel-client-authentication-in-oauth-flow-82d2afea660e?source=rss------cybersecurity-5
+https://medium.com/@sekuD/htb-cypher-experience-takeaways-0c4f51d17ab1?source=rss------cybersecurity-5
