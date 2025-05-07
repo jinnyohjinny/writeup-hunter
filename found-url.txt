@@ -961,3 +961,5 @@ https://javascript.plainenglish.io/enhancing-your-node-js-restful-api-security-w
 https://medium.com/@samilalpay1999/sql-injection-portswigger-lab-3-a2dc4c89ba71?source=rss------sql_injection-5
 https://mumarhanif.medium.com/sql-injection-explained-how-to-avoid-the-classic-mistake-d3a9cc63bffe?source=rss------sql_injection-5
 https://medium.com/@Saeiez/discovering-a-blind-xss-vulnerability-in-the-platform-1fa45a6621db?source=rss------bug_bounty_tips-5
+https://medium.com/@agarwaldaksh18/day-28-bypassing-graphql-introspection-rate-limiting-and-csrf-defenses-be95c779baed?source=rss------web_security-5
+https://theanalystsedge.medium.com/sql-injection-explained-how-to-avoid-the-classic-mistake-d3a9cc63bffe?source=rss------sql_injection-5
