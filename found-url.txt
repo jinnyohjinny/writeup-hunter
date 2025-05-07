@@ -963,3 +963,8 @@ https://mumarhanif.medium.com/sql-injection-explained-how-to-avoid-the-classic-m
 https://medium.com/@Saeiez/discovering-a-blind-xss-vulnerability-in-the-platform-1fa45a6621db?source=rss------bug_bounty_tips-5
 https://medium.com/@agarwaldaksh18/day-28-bypassing-graphql-introspection-rate-limiting-and-csrf-defenses-be95c779baed?source=rss------web_security-5
 https://theanalystsedge.medium.com/sql-injection-explained-how-to-avoid-the-classic-mistake-d3a9cc63bffe?source=rss------sql_injection-5
+https://menitasa.medium.com/lab-guide-blind-sql-injection-with-conditional-responses-3043186eb5d7?source=rss------web_security-5
+https://medium.com/@fl391xl21/how-to-claim-recon-easily-8991f1d2393a?source=rss------recon-5
+https://menitasa.medium.com/lab-guide-blind-sql-injection-with-conditional-responses-3043186eb5d7?source=rss------burp_suite-5
+https://menitasa.medium.com/lab-guide-blind-sql-injection-with-conditional-responses-3043186eb5d7?source=rss------appsec-5
+https://menitasa.medium.com/lab-guide-blind-sql-injection-with-conditional-responses-3043186eb5d7?source=rss------sql_injection-5
