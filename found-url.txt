@@ -917,3 +917,6 @@ https://medium.com/@jvlaimer/tryhackme-hammer-write-up-ab347efce261?source=rss--
 https://medium.com/@112piyushsingh/%EF%B8%8F-fuzzing-for-hackers-write-your-own-fuzzer-in-python-get-started-with-afl-d375baf243d2?source=rss------cybersecurity-5
 https://medium.com/@112piyushsingh/beyond-the-buzz-advanced-fuzzing-techniques-and-real-world-impact-5cf5e8fc275a?source=rss------cybersecurity-5
 https://medium.com/@kal118641/claiming-int-os-intos-tokens-unlocking-rewards-has-never-been-easier-b7fdc3ccbba7?source=rss------osint-5
+https://medium.com/@fl391xl21/how-to-claim-recon-e61e953f96d4?source=rss------recon-5
+https://medium.com/@samrodriguezgalope/is-someone-pretending-to-be-you-expose-them-with-deep-username-search-4f7ea19c70c3?source=rss------osint-5
+https://medium.com/@IanStrome/learn-osint-by-tracking-down-information-for-your-benefit-0734ae6440dc?source=rss------osint-5
