@@ -1023,3 +1023,17 @@ https://zetanine.medium.com/missed-horizontal-privilege-escalation-in-a-bug-boun
 https://osintteam.blog/the-sky-is-watching-you-unless-its-not-the-absurd-theater-of-satellite-censorship-354b26d61111?source=rss------osint-5
 https://medium.com/@ravibiswas0909/stop-ignoring-these-5-spring-boot-security-risks-in-your-code-854186ea69da?source=rss------csrf-5
 https://medium.com/@himanshu675/why-oauth2-is-overkill-controversial-yet-simple-ways-to-secure-internal-apis-in-spring-boot-a56880a7159c?source=rss------api_security-5
+https://medium.com/@moh2005rr/how-i-got-a-free-order-by-bypassing-login-my-first-real-world-bug-38798b79a9d7?source=rss------bug_bounty-5
+https://z00x.medium.com/from-open-redirect-to-full-account-takeover-exploiting-oauth-misconfiguration-35b0d215cf02?source=rss------bug_bounty-5
+https://medium.com/@moh2005rr/how-i-got-a-free-order-by-bypassing-login-my-first-real-world-bug-38798b79a9d7?source=rss------web_security-5
+https://medium.com/@nishanthannisha008/what-is-sql-injection-a-beginners-guide-to-one-of-the-web-s-most-common-vulnerabilities-be0da2a061e3?source=rss------web_security-5
+https://osintteam.blog/whiterose-ctf-tryhackme-writeup-8c4434fd3e5b?source=rss------tryhackme-5
+https://medium.com/@RosanaFS/aws-iam-enumeration-tryhackme-walkthrough-d2a66ffc35ef?source=rss------tryhackme-5
+https://osintteam.blog/whiterose-ctf-tryhackme-writeup-8c4434fd3e5b?source=rss------cve-5
+https://medium.com/@moh2005rr/how-i-got-a-free-order-by-bypassing-login-my-first-real-world-bug-38798b79a9d7?source=rss------burp_suite-5
+https://z00x.medium.com/from-open-redirect-to-full-account-takeover-exploiting-oauth-misconfiguration-35b0d215cf02?source=rss------open_redirect-5
+https://z00x.medium.com/from-open-redirect-to-full-account-takeover-exploiting-oauth-misconfiguration-35b0d215cf02?source=rss------account_takeover-5
+https://osintteam.blog/whiterose-ctf-tryhackme-writeup-8c4434fd3e5b?source=rss------ctf-5
+https://medium.com/@nishanthannisha008/what-is-sql-injection-a-beginners-guide-to-one-of-the-web-s-most-common-vulnerabilities-be0da2a061e3?source=rss------sql_injection-5
+https://shereesemay.medium.com/three-reasons-healthcare-organizations-continue-to-struggle-with-access-control-and-how-to-fix-133f146d166b?source=rss------cybersecurity-5
+https://medium.com/@moh2005rr/how-i-got-a-free-order-by-bypassing-login-my-first-real-world-bug-38798b79a9d7?source=rss------cybersecurity-5
