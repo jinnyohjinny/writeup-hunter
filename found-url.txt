@@ -1008,3 +1008,7 @@ https://brutsecurity.medium.com/from-zero-to-recon-your-first-asn-based-scanning
 https://pentest-testing-corp.medium.com/prevent-unrestricted-file-upload-in-symfony-apps-d25406df104e?source=rss------cybersecurity-5
 https://medium.com/@agarwaldaksh18/day-29-portswigger-lab-walkthroughs-no-tools-sql-injection-via-url-login-form-293016dc3b74?source=rss------cybersecurity-5
 https://medium.com/@secops_asisghana/doxxing-executives-when-personal-data-becomes-a-weapon-2f81c9d001ff?source=rss------osint-5
+https://medium.com/@0j1y88/smol-b68b736ad907?source=rss------penetration_testing-5
+https://medium.com/@nastyanazarova89/step-by-step-guide-to-claim-recon-ecb4f79d4f6b?source=rss------recon-5
+https://medium.com/@kipisa8811/last-chance-alert-claim-intos-tokens-by-int-os-now-96c8233093c6?source=rss------osint-5
+https://medium.com/@yudigunawan223/apa-itu-sql-injection-memahami-konsep-serangan-dan-risikonya-d446cbfeda4b?source=rss------sql_injection-5
