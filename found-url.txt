@@ -1018,3 +1018,8 @@ https://medium.com/@mylescorey87/bellingcat-fully-stocked-open-source-challenge-
 https://medium.com/@midhunkrishnanpu/pw-crack-4-picoctf-walkthrough-difficulty-medium-general-skills-bc4ca1611a9a?source=rss------ctf-5
 https://medium.com/@midhunkrishnanpu/pw-crack-4-picoctf-walkthrough-difficulty-medium-general-skills-bc4ca1611a9a?source=rss------cybersecurity-5
 https://medium.com/@josegpach/building-a-flipper-zero-ethernet-adapter-for-red-team-recon-494ef206ea93?source=rss------cybersecurity-5
+https://zetanine.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_hunting-5
+https://zetanine.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------hackerone-5
+https://osintteam.blog/the-sky-is-watching-you-unless-its-not-the-absurd-theater-of-satellite-censorship-354b26d61111?source=rss------osint-5
+https://medium.com/@ravibiswas0909/stop-ignoring-these-5-spring-boot-security-risks-in-your-code-854186ea69da?source=rss------csrf-5
+https://medium.com/@himanshu675/why-oauth2-is-overkill-controversial-yet-simple-ways-to-secure-internal-apis-in-spring-boot-a56880a7159c?source=rss------api_security-5
