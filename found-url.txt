@@ -979,3 +979,7 @@ https://medium.com/@musayyabsharif/file-upload-vulnerabilities-260741e24c30?sour
 https://medium.com/@jazkiller2432/soc165-possible-sql-injection-payload-detected-22e8b48605d1?source=rss------sql_injection-5
 https://medium.com/@dsadauskienes/step-by-step-soc165-alert-investigation-possible-sql-injection-event-id-115-da75d63e05d3?source=rss------sql_injection-5
 https://medium.com/@jazkiller2432/soc165-possible-sql-injection-payload-detected-22e8b48605d1?source=rss------cybersecurity-5
+https://osintteam.blog/everything-about-robots-txt-file-3815dddfbfce?source=rss------bug_bounty-5
+https://medium.com/@loyalonlytoday/online-investigation-toolkit-for-osint-investigators-610fb263846b?source=rss------osint-5
+https://medium.com/@kal118641/surprise-int-os-intos-drop-free-and-fast-2d044c8064e1?source=rss------osint-5
+https://osintteam.blog/everything-about-robots-txt-file-3815dddfbfce?source=rss------osint-5
