@@ -999,3 +999,11 @@ https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-y
 https://osintteam.blog/understanding-threat-actors-motivations-and-attack-vectors-with-real-life-examples-02285cace1c1?source=rss------cybersecurity-5
 https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss----7b722bfd1b8d---4
 https://infosecwriteups.com/privilege-escalation-using-docker-container-e9110713936b?source=rss----7b722bfd1b8d---4
+https://brutsecurity.medium.com/from-zero-to-recon-your-first-asn-based-scanning-workflow-b08c88709410?source=rss------bug_bounty-5
+https://pentest-testing-corp.medium.com/prevent-unrestricted-file-upload-in-symfony-apps-d25406df104e?source=rss------penetration_testing-5
+https://pentest-testing-corp.medium.com/prevent-unrestricted-file-upload-in-symfony-apps-d25406df104e?source=rss------vulnerability-5
+https://medium.com/@jaunelecarre/osint-methodologies-2-86ab5e24d168?source=rss------osint-5
+https://medium.com/@agarwaldaksh18/day-29-portswigger-lab-walkthroughs-no-tools-sql-injection-via-url-login-form-293016dc3b74?source=rss------ctf-5
+https://brutsecurity.medium.com/from-zero-to-recon-your-first-asn-based-scanning-workflow-b08c88709410?source=rss------bug_bounty_tips-5
+https://pentest-testing-corp.medium.com/prevent-unrestricted-file-upload-in-symfony-apps-d25406df104e?source=rss------cybersecurity-5
+https://medium.com/@agarwaldaksh18/day-29-portswigger-lab-walkthroughs-no-tools-sql-injection-via-url-login-form-293016dc3b74?source=rss------cybersecurity-5
