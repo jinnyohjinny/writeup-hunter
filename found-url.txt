@@ -1007,3 +1007,4 @@ https://medium.com/@agarwaldaksh18/day-29-portswigger-lab-walkthroughs-no-tools-
 https://brutsecurity.medium.com/from-zero-to-recon-your-first-asn-based-scanning-workflow-b08c88709410?source=rss------bug_bounty_tips-5
 https://pentest-testing-corp.medium.com/prevent-unrestricted-file-upload-in-symfony-apps-d25406df104e?source=rss------cybersecurity-5
 https://medium.com/@agarwaldaksh18/day-29-portswigger-lab-walkthroughs-no-tools-sql-injection-via-url-login-form-293016dc3b74?source=rss------cybersecurity-5
+https://medium.com/@secops_asisghana/doxxing-executives-when-personal-data-becomes-a-weapon-2f81c9d001ff?source=rss------osint-5
