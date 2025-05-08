@@ -976,3 +976,6 @@ https://medium.com/@arunodayvmtiwari1102/my-first-bug-bounty-recon-efec0eddc6c3?
 https://arayofhope7.medium.com/day-14-blind-sql-injection-with-time-delays-zero-to-hero-time-based-blind-sql-injection-ed80f1ce7b0d?source=rss------cybersecurity-5
 https://medium.com/@arunodayvmtiwari1102/my-first-bug-bounty-recon-efec0eddc6c3?source=rss------cybersecurity-5
 https://medium.com/@musayyabsharif/file-upload-vulnerabilities-260741e24c30?source=rss------cybersecurity-5
+https://medium.com/@jazkiller2432/soc165-possible-sql-injection-payload-detected-22e8b48605d1?source=rss------sql_injection-5
+https://medium.com/@dsadauskienes/step-by-step-soc165-alert-investigation-possible-sql-injection-event-id-115-da75d63e05d3?source=rss------sql_injection-5
+https://medium.com/@jazkiller2432/soc165-possible-sql-injection-payload-detected-22e8b48605d1?source=rss------cybersecurity-5
