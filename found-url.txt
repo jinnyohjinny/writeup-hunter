@@ -990,3 +990,12 @@ https://medium.com/@dhruvshyam111/tryhackme-billing-walkthrough-c2bec374bc9c?sou
 https://medium.com/@jensbeckerdev/tryhackme-lo-fi-room-walkthrough-exploiting-local-file-inclusion-lfi-843ed97d0455?source=rss------ctf-5
 https://medium.com/@jensbeckerdev/tryhackme-lo-fi-room-walkthrough-exploiting-local-file-inclusion-lfi-843ed97d0455?source=rss------writeup-5
 https://medium.com/@jensbeckerdev/tryhackme-lo-fi-room-walkthrough-exploiting-local-file-inclusion-lfi-843ed97d0455?source=rss------cybersecurity-5
+https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss------bug_bounty-5
+https://menitasa.medium.com/lab-guide-visible-error-based-sql-injection-7cdc2225d9b4?source=rss------penetration_testing-5
+https://menitasa.medium.com/lab-guide-visible-error-based-sql-injection-7cdc2225d9b4?source=rss------burp_suite-5
+https://menitasa.medium.com/lab-guide-visible-error-based-sql-injection-7cdc2225d9b4?source=rss------appsec-5
+https://menitasa.medium.com/lab-guide-visible-error-based-sql-injection-7cdc2225d9b4?source=rss------sql_injection-5
+https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss------sql_injection-5
+https://osintteam.blog/understanding-threat-actors-motivations-and-attack-vectors-with-real-life-examples-02285cace1c1?source=rss------cybersecurity-5
+https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/privilege-escalation-using-docker-container-e9110713936b?source=rss----7b722bfd1b8d---4
