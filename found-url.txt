@@ -1062,3 +1062,9 @@ https://osintteam.blog/how-to-implement-a-zero-trust-architecture-in-your-networ
 https://osintteam.blog/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss----2983bc435765---4
 https://osintteam.blog/500-bounty-parameter-pollution-in-hackerones-976bb0a3caae?source=rss----2983bc435765---4
 https://osintteam.blog/digital-trenches-when-governments-wage-war-in-the-shadows-4d667f5ca2c9?source=rss----2983bc435765---4
+https://medium.com/@mazene432/xss-explained-a-complete-guide-to-cross-site-scripting-with-practical-examples-80453349b35f?source=rss------bug_bounty-5
+https://medium.com/@mazene432/xss-explained-a-complete-guide-to-cross-site-scripting-with-practical-examples-80453349b35f?source=rss------penetration_testing-5
+https://medium.com/@RosanaFS/aws-iam-initial-access-tryhackme-walkthrough-517e5ce72cb4?source=rss------tryhackme-5
+https://medium.com/@dewankpant/server-side-request-forgery-on-latex-editor-leading-to-docker-bypass-and-total-server-compromise-f39da9a53fd1?source=rss------ssrf-5
+https://medium.com/@mazene432/xss-explained-a-complete-guide-to-cross-site-scripting-with-practical-examples-80453349b35f?source=rss------cybersecurity-5
+https://medium.com/@RosanaFS/aws-iam-initial-access-tryhackme-walkthrough-517e5ce72cb4?source=rss------cybersecurity-5
