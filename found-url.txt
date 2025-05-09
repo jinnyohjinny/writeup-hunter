@@ -1073,3 +1073,15 @@ https://osintteam.blog/critical-rce-vulnerability-discovered-in-erlang-otp-ssh-c
 https://medium.com/@snyde21/osint-related-articles-20250509-22c3329e11f3?source=rss------osint-5
 https://medium.com/@n45ht/hacking-ai-with-markdown-how-we-triggered-xss-in-deepseeks-chat-e625686530b6?source=rss------cross_site_scripting-5
 https://infosecwriteups.com/%EF%B8%8Frecon-automation-like-a-pro-my-5-stage-system-to-catch-more-bugs-4fff7b7c4726?source=rss------bug_bounty-5
+https://medium.com/@SysSecureLabs/js-file-reconnaissance-in-web-hacking-436215909594?source=rss------bug_bounty-5
+https://infosecwriteups.com/840-bounty-how-i-stole-oauth-tokens-from-twitter-733f82857eda?source=rss------bug_bounty-5
+https://infosecwriteups.com/840-bounty-how-i-stole-oauth-tokens-from-twitter-733f82857eda?source=rss------penetration_testing-5
+https://ismailtasdelen.medium.com/ciscos-ios-xe-nightmare-how-a-hard-coded-jwt-in-cve-2025-20188-let-hackers-go-full-root-%EF%B8%8F-%EF%B8%8F-48dc088a8bdb?source=rss------vulnerability-5
+https://medium.com/@SysSecureLabs/js-file-reconnaissance-in-web-hacking-436215909594?source=rss------recon-5
+https://infosecwriteups.com/%EF%B8%8Frecon-automation-like-a-pro-my-5-stage-system-to-catch-more-bugs-4fff7b7c4726?source=rss------recon-5
+https://medium.com/legionhunters/fofa-dorking-part-2-106994da9b96?source=rss------osint-5
+https://medium.com/@kal118641/instantly-claim-intos-no-gas-fees-required-267849ee63db?source=rss------osint-5
+https://infosecwriteups.com/uuids-a-false-sense-of-security-10467497daae?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/%EF%B8%8Frecon-automation-like-a-pro-my-5-stage-system-to-catch-more-bugs-4fff7b7c4726?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/open-redirect-vulnerability-what-it-is-and-why-it-matters-b600117c61a7?source=rss----7b722bfd1b8d---4
+https://infosecwriteups.com/bypassing-email-verification-299d94230724?source=rss----7b722bfd1b8d---4
