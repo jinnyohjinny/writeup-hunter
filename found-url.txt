@@ -1068,3 +1068,5 @@ https://medium.com/@RosanaFS/aws-iam-initial-access-tryhackme-walkthrough-517e5c
 https://medium.com/@dewankpant/server-side-request-forgery-on-latex-editor-leading-to-docker-bypass-and-total-server-compromise-f39da9a53fd1?source=rss------ssrf-5
 https://medium.com/@mazene432/xss-explained-a-complete-guide-to-cross-site-scripting-with-practical-examples-80453349b35f?source=rss------cybersecurity-5
 https://medium.com/@RosanaFS/aws-iam-initial-access-tryhackme-walkthrough-517e5ce72cb4?source=rss------cybersecurity-5
+https://osintteam.blog/critical-rce-vulnerability-discovered-in-erlang-otp-ssh-cve-2025-32433-bdaba163524a?source=rss------cve-5
+https://osintteam.blog/critical-rce-vulnerability-discovered-in-erlang-otp-ssh-cve-2025-32433-bdaba163524a?source=rss------rce_vulnerability-5
