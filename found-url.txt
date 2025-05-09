@@ -1098,3 +1098,5 @@ https://larbi-ouiyzme.medium.com/understanding-payload-obfuscation-and-encoding-
 https://medium.com/@agarwaldaksh18/day-30-portswigger-sql-injection-labs-extracting-database-version-oracle-mysql-microsoft-d8574897ad0d?source=rss------cybersecurity-5
 https://larbi-ouiyzme.medium.com/comprendre-lobfuscation-et-l-encodage-des-charges-utiles-dans-les-attaques-xss-et-les-techniques-295aaaea521a?source=rss------cybersecurity-5
 https://medium.com/@agazadeamin05/whats-ssrf-server-side-request-forgery-dd729ab88b8b?source=rss------cybersecurity-5
+https://medium.com/@1AUS_FfM/on-security-of-it-security-products-24d5a173f626?source=rss------cve-5
+https://medium.com/@adhamhashem2024/can-improper-implementation-of-graphql-resolvers-lead-to-sql-injection-vulnerabilities-yes-9433ef551e95?source=rss------sql_injection-5
